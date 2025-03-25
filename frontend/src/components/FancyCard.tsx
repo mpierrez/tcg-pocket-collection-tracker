@@ -79,20 +79,22 @@ function FancyCard({ selected, setIsSelected, card, size = 'default' }: Props) {
         zIndex: isHovering ? 10 : 0,
       }}
     >
-      <img
-        draggable={false}
-        onMouseDown={() => setIsSelected?.(!selected)}
-        ref={cardRef}
-        className="card-test"
-        style={cardTestStyle}
-        src={`${imagePath}`}
-        alt={card.name}
-        onMouseEnter={handleMouseEnter}
-        onMouseLeave={handleMouseLeave}
-        onError={(e) => {
-          ;(e.target as HTMLImageElement).src = `/images/en-US/${card.image?.split('/').at(-1)}` // Default card image to English if localized image is missing
-        }}
-      />
+      {baseName && (
+        <img
+          draggable={false}
+          onMouseDown={() => setIsSelected?.(!selected)}
+          ref={cardRef}
+          className="card-test"
+          style={cardTestStyle}
+          src={`${imagePath}`}
+          alt={card.name}
+          onMouseEnter={handleMouseEnter}
+          onMouseLeave={handleMouseLeave}
+          onError={(e) => {
+            ;(e.target as HTMLImageElement).src = `/images/en-US/${card.image?.split('/').at(-1)}` // Default card image to English if localized image is missing
+          }}
+        />
+      )}
     </div>
   )
 }
