@@ -1,0 +1,6152 @@
+{
+  "bulbasaur": {
+    "en-US": "Bulbasaur",
+    "fr-FR": "Bulbizarre",
+    "es-ES": "Bulbasaur",
+    "pt-BR": null
+  },
+  "ivysaur": {
+    "en-US": "Ivysaur",
+    "fr-FR": "Herbizarre",
+    "es-ES": "Ivysaur",
+    "pt-BR": null
+  },
+  "venusaur": {
+    "en-US": "Venusaur",
+    "fr-FR": "Florizarre",
+    "es-ES": "Venusaur",
+    "pt-BR": null
+  },
+  "charmander": {
+    "en-US": "Charmander",
+    "fr-FR": "Salamèche",
+    "es-ES": "Charmander",
+    "pt-BR": null
+  },
+  "charmeleon": {
+    "en-US": "Charmeleon",
+    "fr-FR": "Reptincel",
+    "es-ES": "Charmeleon",
+    "pt-BR": null
+  },
+  "charizard": {
+    "en-US": "Charizard",
+    "fr-FR": "Dracaufeu",
+    "es-ES": "Charizard",
+    "pt-BR": null
+  },
+  "squirtle": {
+    "en-US": "Squirtle",
+    "fr-FR": "Carapuce",
+    "es-ES": "Squirtle",
+    "pt-BR": null
+  },
+  "wartortle": {
+    "en-US": "Wartortle",
+    "fr-FR": "Carabaffe",
+    "es-ES": "Wartortle",
+    "pt-BR": null
+  },
+  "blastoise": {
+    "en-US": "Blastoise",
+    "fr-FR": "Tortank",
+    "es-ES": "Blastoise",
+    "pt-BR": null
+  },
+  "caterpie": {
+    "en-US": "Caterpie",
+    "fr-FR": "Chenipan",
+    "es-ES": "Caterpie",
+    "pt-BR": null
+  },
+  "metapod": {
+    "en-US": "Metapod",
+    "fr-FR": "Chrysacier",
+    "es-ES": "Metapod",
+    "pt-BR": null
+  },
+  "butterfree": {
+    "en-US": "Butterfree",
+    "fr-FR": "Papilusion",
+    "es-ES": "Butterfree",
+    "pt-BR": null
+  },
+  "weedle": {
+    "en-US": "Weedle",
+    "fr-FR": "Aspicot",
+    "es-ES": "Weedle",
+    "pt-BR": null
+  },
+  "kakuna": {
+    "en-US": "Kakuna",
+    "fr-FR": "Coconfort",
+    "es-ES": "Kakuna",
+    "pt-BR": null
+  },
+  "beedrill": {
+    "en-US": "Beedrill",
+    "fr-FR": "Dardargnan",
+    "es-ES": "Beedrill",
+    "pt-BR": null
+  },
+  "pidgey": {
+    "en-US": "Pidgey",
+    "fr-FR": "Roucool",
+    "es-ES": "Pidgey",
+    "pt-BR": null
+  },
+  "pidgeotto": {
+    "en-US": "Pidgeotto",
+    "fr-FR": "Roucoups",
+    "es-ES": "Pidgeotto",
+    "pt-BR": null
+  },
+  "pidgeot": {
+    "en-US": "Pidgeot",
+    "fr-FR": "Roucarnage",
+    "es-ES": "Pidgeot",
+    "pt-BR": null
+  },
+  "rattata": {
+    "en-US": "Rattata",
+    "fr-FR": "Rattata",
+    "es-ES": "Rattata",
+    "pt-BR": null
+  },
+  "raticate": {
+    "en-US": "Raticate",
+    "fr-FR": "Rattatac",
+    "es-ES": "Raticate",
+    "pt-BR": null
+  },
+  "spearow": {
+    "en-US": "Spearow",
+    "fr-FR": "Piafabec",
+    "es-ES": "Spearow",
+    "pt-BR": null
+  },
+  "fearow": {
+    "en-US": "Fearow",
+    "fr-FR": "Rapasdepic",
+    "es-ES": "Fearow",
+    "pt-BR": null
+  },
+  "ekans": {
+    "en-US": "Ekans",
+    "fr-FR": "Abo",
+    "es-ES": "Ekans",
+    "pt-BR": null
+  },
+  "arbok": {
+    "en-US": "Arbok",
+    "fr-FR": "Arbok",
+    "es-ES": "Arbok",
+    "pt-BR": null
+  },
+  "pikachu": {
+    "en-US": "Pikachu",
+    "fr-FR": "Pikachu",
+    "es-ES": "Pikachu",
+    "pt-BR": null
+  },
+  "raichu": {
+    "en-US": "Raichu",
+    "fr-FR": "Raichu",
+    "es-ES": "Raichu",
+    "pt-BR": null
+  },
+  "sandshrew": {
+    "en-US": "Sandshrew",
+    "fr-FR": "Sabelette",
+    "es-ES": "Sandshrew",
+    "pt-BR": null
+  },
+  "sandslash": {
+    "en-US": "Sandslash",
+    "fr-FR": "Sablaireau",
+    "es-ES": "Sandslash",
+    "pt-BR": null
+  },
+  "nidoran♀": {
+    "en-US": "Nidoran♀",
+    "fr-FR": "Nidoran♀",
+    "es-ES": "Nidoran♀",
+    "pt-BR": null
+  },
+  "nidorina": {
+    "en-US": "Nidorina",
+    "fr-FR": "Nidorina",
+    "es-ES": "Nidorina",
+    "pt-BR": null
+  },
+  "nidoqueen": {
+    "en-US": "Nidoqueen",
+    "fr-FR": "Nidoqueen",
+    "es-ES": "Nidoqueen",
+    "pt-BR": null
+  },
+  "nidoran♂": {
+    "en-US": "Nidoran♂",
+    "fr-FR": "Nidoran♂",
+    "es-ES": "Nidoran♂",
+    "pt-BR": null
+  },
+  "nidorino": {
+    "en-US": "Nidorino",
+    "fr-FR": "Nidorino",
+    "es-ES": "Nidorino",
+    "pt-BR": null
+  },
+  "nidoking": {
+    "en-US": "Nidoking",
+    "fr-FR": "Nidoking",
+    "es-ES": "Nidoking",
+    "pt-BR": null
+  },
+  "clefairy": {
+    "en-US": "Clefairy",
+    "fr-FR": "Mélofée",
+    "es-ES": "Clefairy",
+    "pt-BR": null
+  },
+  "clefable": {
+    "en-US": "Clefable",
+    "fr-FR": "Mélodelfe",
+    "es-ES": "Clefable",
+    "pt-BR": null
+  },
+  "vulpix": {
+    "en-US": "Vulpix",
+    "fr-FR": "Goupix",
+    "es-ES": "Vulpix",
+    "pt-BR": null
+  },
+  "ninetales": {
+    "en-US": "Ninetales",
+    "fr-FR": "Feunard",
+    "es-ES": "Ninetales",
+    "pt-BR": null
+  },
+  "jigglypuff": {
+    "en-US": "Jigglypuff",
+    "fr-FR": "Rondoudou",
+    "es-ES": "Jigglypuff",
+    "pt-BR": null
+  },
+  "wigglytuff": {
+    "en-US": "Wigglytuff",
+    "fr-FR": "Grodoudou",
+    "es-ES": "Wigglytuff",
+    "pt-BR": null
+  },
+  "zubat": {
+    "en-US": "Zubat",
+    "fr-FR": "Nosferapti",
+    "es-ES": "Zubat",
+    "pt-BR": null
+  },
+  "golbat": {
+    "en-US": "Golbat",
+    "fr-FR": "Nosferalto",
+    "es-ES": "Golbat",
+    "pt-BR": null
+  },
+  "oddish": {
+    "en-US": "Oddish",
+    "fr-FR": "Mystherbe",
+    "es-ES": "Oddish",
+    "pt-BR": null
+  },
+  "gloom": {
+    "en-US": "Gloom",
+    "fr-FR": "Ortide",
+    "es-ES": "Gloom",
+    "pt-BR": null
+  },
+  "vileplume": {
+    "en-US": "Vileplume",
+    "fr-FR": "Rafflesia",
+    "es-ES": "Vileplume",
+    "pt-BR": null
+  },
+  "paras": {
+    "en-US": "Paras",
+    "fr-FR": "Paras",
+    "es-ES": "Paras",
+    "pt-BR": null
+  },
+  "parasect": {
+    "en-US": "Parasect",
+    "fr-FR": "Parasect",
+    "es-ES": "Parasect",
+    "pt-BR": null
+  },
+  "venonat": {
+    "en-US": "Venonat",
+    "fr-FR": "Mimitoss",
+    "es-ES": "Venonat",
+    "pt-BR": null
+  },
+  "venomoth": {
+    "en-US": "Venomoth",
+    "fr-FR": "Aéromite",
+    "es-ES": "Venomoth",
+    "pt-BR": null
+  },
+  "diglett": {
+    "en-US": "Diglett",
+    "fr-FR": "Taupiqueur",
+    "es-ES": "Diglett",
+    "pt-BR": null
+  },
+  "dugtrio": {
+    "en-US": "Dugtrio",
+    "fr-FR": "Triopikeur",
+    "es-ES": "Dugtrio",
+    "pt-BR": null
+  },
+  "meowth": {
+    "en-US": "Meowth",
+    "fr-FR": "Miaouss",
+    "es-ES": "Meowth",
+    "pt-BR": null
+  },
+  "persian": {
+    "en-US": "Persian",
+    "fr-FR": "Persian",
+    "es-ES": "Persian",
+    "pt-BR": null
+  },
+  "psyduck": {
+    "en-US": "Psyduck",
+    "fr-FR": "Psykokwak",
+    "es-ES": "Psyduck",
+    "pt-BR": null
+  },
+  "golduck": {
+    "en-US": "Golduck",
+    "fr-FR": "Akwakwak",
+    "es-ES": "Golduck",
+    "pt-BR": null
+  },
+  "mankey": {
+    "en-US": "Mankey",
+    "fr-FR": "Férosinge",
+    "es-ES": "Mankey",
+    "pt-BR": null
+  },
+  "primeape": {
+    "en-US": "Primeape",
+    "fr-FR": "Colossinge",
+    "es-ES": "Primeape",
+    "pt-BR": null
+  },
+  "growlithe": {
+    "en-US": "Growlithe",
+    "fr-FR": "Caninos",
+    "es-ES": "Growlithe",
+    "pt-BR": null
+  },
+  "arcanine": {
+    "en-US": "Arcanine",
+    "fr-FR": "Arcanin",
+    "es-ES": "Arcanine",
+    "pt-BR": null
+  },
+  "poliwag": {
+    "en-US": "Poliwag",
+    "fr-FR": "Ptitard",
+    "es-ES": "Poliwag",
+    "pt-BR": null
+  },
+  "poliwhirl": {
+    "en-US": "Poliwhirl",
+    "fr-FR": "Têtarte",
+    "es-ES": "Poliwhirl",
+    "pt-BR": null
+  },
+  "poliwrath": {
+    "en-US": "Poliwrath",
+    "fr-FR": "Tartard",
+    "es-ES": "Poliwrath",
+    "pt-BR": null
+  },
+  "abra": {
+    "en-US": "Abra",
+    "fr-FR": "Abra",
+    "es-ES": "Abra",
+    "pt-BR": null
+  },
+  "kadabra": {
+    "en-US": "Kadabra",
+    "fr-FR": "Kadabra",
+    "es-ES": "Kadabra",
+    "pt-BR": null
+  },
+  "alakazam": {
+    "en-US": "Alakazam",
+    "fr-FR": "Alakazam",
+    "es-ES": "Alakazam",
+    "pt-BR": null
+  },
+  "machop": {
+    "en-US": "Machop",
+    "fr-FR": "Machoc",
+    "es-ES": "Machop",
+    "pt-BR": null
+  },
+  "machoke": {
+    "en-US": "Machoke",
+    "fr-FR": "Machopeur",
+    "es-ES": "Machoke",
+    "pt-BR": null
+  },
+  "machamp": {
+    "en-US": "Machamp",
+    "fr-FR": "Mackogneur",
+    "es-ES": "Machamp",
+    "pt-BR": null
+  },
+  "bellsprout": {
+    "en-US": "Bellsprout",
+    "fr-FR": "Chétiflor",
+    "es-ES": "Bellsprout",
+    "pt-BR": null
+  },
+  "weepinbell": {
+    "en-US": "Weepinbell",
+    "fr-FR": "Boustiflor",
+    "es-ES": "Weepinbell",
+    "pt-BR": null
+  },
+  "victreebel": {
+    "en-US": "Victreebel",
+    "fr-FR": "Empiflor",
+    "es-ES": "Victreebel",
+    "pt-BR": null
+  },
+  "tentacool": {
+    "en-US": "Tentacool",
+    "fr-FR": "Tentacool",
+    "es-ES": "Tentacool",
+    "pt-BR": null
+  },
+  "tentacruel": {
+    "en-US": "Tentacruel",
+    "fr-FR": "Tentacruel",
+    "es-ES": "Tentacruel",
+    "pt-BR": null
+  },
+  "geodude": {
+    "en-US": "Geodude",
+    "fr-FR": "Racaillou",
+    "es-ES": "Geodude",
+    "pt-BR": null
+  },
+  "graveler": {
+    "en-US": "Graveler",
+    "fr-FR": "Gravalanch",
+    "es-ES": "Graveler",
+    "pt-BR": null
+  },
+  "golem": {
+    "en-US": "Golem",
+    "fr-FR": "Grolem",
+    "es-ES": "Golem",
+    "pt-BR": null
+  },
+  "ponyta": {
+    "en-US": "Ponyta",
+    "fr-FR": "Ponyta",
+    "es-ES": "Ponyta",
+    "pt-BR": null
+  },
+  "rapidash": {
+    "en-US": "Rapidash",
+    "fr-FR": "Galopa",
+    "es-ES": "Rapidash",
+    "pt-BR": null
+  },
+  "slowpoke": {
+    "en-US": "Slowpoke",
+    "fr-FR": "Ramoloss",
+    "es-ES": "Slowpoke",
+    "pt-BR": null
+  },
+  "slowbro": {
+    "en-US": "Slowbro",
+    "fr-FR": "Flagadoss",
+    "es-ES": "Slowbro",
+    "pt-BR": null
+  },
+  "magnemite": {
+    "en-US": "Magnemite",
+    "fr-FR": "Magnéti",
+    "es-ES": "Magnemite",
+    "pt-BR": null
+  },
+  "magneton": {
+    "en-US": "Magneton",
+    "fr-FR": "Magnéton",
+    "es-ES": "Magneton",
+    "pt-BR": null
+  },
+  "farfetch’d": {
+    "en-US": "Farfetch’d",
+    "fr-FR": "Canarticho",
+    "es-ES": "Farfetch’d",
+    "pt-BR": null
+  },
+  "doduo": {
+    "en-US": "Doduo",
+    "fr-FR": "Doduo",
+    "es-ES": "Doduo",
+    "pt-BR": null
+  },
+  "dodrio": {
+    "en-US": "Dodrio",
+    "fr-FR": "Dodrio",
+    "es-ES": "Dodrio",
+    "pt-BR": null
+  },
+  "seel": {
+    "en-US": "Seel",
+    "fr-FR": "Otaria",
+    "es-ES": "Seel",
+    "pt-BR": null
+  },
+  "dewgong": {
+    "en-US": "Dewgong",
+    "fr-FR": "Lamantine",
+    "es-ES": "Dewgong",
+    "pt-BR": null
+  },
+  "grimer": {
+    "en-US": "Grimer",
+    "fr-FR": "Tadmorv",
+    "es-ES": "Grimer",
+    "pt-BR": null
+  },
+  "muk": {
+    "en-US": "Muk",
+    "fr-FR": "Grotadmorv",
+    "es-ES": "Muk",
+    "pt-BR": null
+  },
+  "shellder": {
+    "en-US": "Shellder",
+    "fr-FR": "Kokiyas",
+    "es-ES": "Shellder",
+    "pt-BR": null
+  },
+  "cloyster": {
+    "en-US": "Cloyster",
+    "fr-FR": "Crustabri",
+    "es-ES": "Cloyster",
+    "pt-BR": null
+  },
+  "gastly": {
+    "en-US": "Gastly",
+    "fr-FR": "Fantominus",
+    "es-ES": "Gastly",
+    "pt-BR": null
+  },
+  "haunter": {
+    "en-US": "Haunter",
+    "fr-FR": "Spectrum",
+    "es-ES": "Haunter",
+    "pt-BR": null
+  },
+  "gengar": {
+    "en-US": "Gengar",
+    "fr-FR": "Ectoplasma",
+    "es-ES": "Gengar",
+    "pt-BR": null
+  },
+  "onix": {
+    "en-US": "Onix",
+    "fr-FR": "Onix",
+    "es-ES": "Onix",
+    "pt-BR": null
+  },
+  "drowzee": {
+    "en-US": "Drowzee",
+    "fr-FR": "Soporifik",
+    "es-ES": "Drowzee",
+    "pt-BR": null
+  },
+  "hypno": {
+    "en-US": "Hypno",
+    "fr-FR": "Hypnomade",
+    "es-ES": "Hypno",
+    "pt-BR": null
+  },
+  "krabby": {
+    "en-US": "Krabby",
+    "fr-FR": "Krabby",
+    "es-ES": "Krabby",
+    "pt-BR": null
+  },
+  "kingler": {
+    "en-US": "Kingler",
+    "fr-FR": "Krabboss",
+    "es-ES": "Kingler",
+    "pt-BR": null
+  },
+  "voltorb": {
+    "en-US": "Voltorb",
+    "fr-FR": "Voltorbe",
+    "es-ES": "Voltorb",
+    "pt-BR": null
+  },
+  "electrode": {
+    "en-US": "Electrode",
+    "fr-FR": "Électrode",
+    "es-ES": "Electrode",
+    "pt-BR": null
+  },
+  "exeggcute": {
+    "en-US": "Exeggcute",
+    "fr-FR": "Noeunoeuf",
+    "es-ES": "Exeggcute",
+    "pt-BR": null
+  },
+  "exeggutor": {
+    "en-US": "Exeggutor",
+    "fr-FR": "Noadkoko",
+    "es-ES": "Exeggutor",
+    "pt-BR": null
+  },
+  "cubone": {
+    "en-US": "Cubone",
+    "fr-FR": "Osselait",
+    "es-ES": "Cubone",
+    "pt-BR": null
+  },
+  "marowak": {
+    "en-US": "Marowak",
+    "fr-FR": "Ossatueur",
+    "es-ES": "Marowak",
+    "pt-BR": null
+  },
+  "hitmonlee": {
+    "en-US": "Hitmonlee",
+    "fr-FR": "Kicklee",
+    "es-ES": "Hitmonlee",
+    "pt-BR": null
+  },
+  "hitmonchan": {
+    "en-US": "Hitmonchan",
+    "fr-FR": "Tygnon",
+    "es-ES": "Hitmonchan",
+    "pt-BR": null
+  },
+  "lickitung": {
+    "en-US": "Lickitung",
+    "fr-FR": "Excelangue",
+    "es-ES": "Lickitung",
+    "pt-BR": null
+  },
+  "koffing": {
+    "en-US": "Koffing",
+    "fr-FR": "Smogo",
+    "es-ES": "Koffing",
+    "pt-BR": null
+  },
+  "weezing": {
+    "en-US": "Weezing",
+    "fr-FR": "Smogogo",
+    "es-ES": "Weezing",
+    "pt-BR": null
+  },
+  "rhyhorn": {
+    "en-US": "Rhyhorn",
+    "fr-FR": "Rhinocorne",
+    "es-ES": "Rhyhorn",
+    "pt-BR": null
+  },
+  "rhydon": {
+    "en-US": "Rhydon",
+    "fr-FR": "Rhinoféros",
+    "es-ES": "Rhydon",
+    "pt-BR": null
+  },
+  "chansey": {
+    "en-US": "Chansey",
+    "fr-FR": "Leveinard",
+    "es-ES": "Chansey",
+    "pt-BR": null
+  },
+  "tangela": {
+    "en-US": "Tangela",
+    "fr-FR": "Saquedeneu",
+    "es-ES": "Tangela",
+    "pt-BR": null
+  },
+  "kangaskhan": {
+    "en-US": "Kangaskhan",
+    "fr-FR": "Kangourex",
+    "es-ES": "Kangaskhan",
+    "pt-BR": null
+  },
+  "horsea": {
+    "en-US": "Horsea",
+    "fr-FR": "Hypotrempe",
+    "es-ES": "Horsea",
+    "pt-BR": null
+  },
+  "seadra": {
+    "en-US": "Seadra",
+    "fr-FR": "Hypocéan",
+    "es-ES": "Seadra",
+    "pt-BR": null
+  },
+  "goldeen": {
+    "en-US": "Goldeen",
+    "fr-FR": "Poissirène",
+    "es-ES": "Goldeen",
+    "pt-BR": null
+  },
+  "seaking": {
+    "en-US": "Seaking",
+    "fr-FR": "Poissoroy",
+    "es-ES": "Seaking",
+    "pt-BR": null
+  },
+  "staryu": {
+    "en-US": "Staryu",
+    "fr-FR": "Stari",
+    "es-ES": "Staryu",
+    "pt-BR": null
+  },
+  "starmie": {
+    "en-US": "Starmie",
+    "fr-FR": "Staross",
+    "es-ES": "Starmie",
+    "pt-BR": null
+  },
+  "mr. mime": {
+    "en-US": "Mr. Mime",
+    "fr-FR": "M. Mime",
+    "es-ES": "Mr. Mime",
+    "pt-BR": null
+  },
+  "scyther": {
+    "en-US": "Scyther",
+    "fr-FR": "Insécateur",
+    "es-ES": "Scyther",
+    "pt-BR": null
+  },
+  "jynx": {
+    "en-US": "Jynx",
+    "fr-FR": "Lippoutou",
+    "es-ES": "Jynx",
+    "pt-BR": null
+  },
+  "electabuzz": {
+    "en-US": "Electabuzz",
+    "fr-FR": "Élektek",
+    "es-ES": "Electabuzz",
+    "pt-BR": null
+  },
+  "magmar": {
+    "en-US": "Magmar",
+    "fr-FR": "Magmar",
+    "es-ES": "Magmar",
+    "pt-BR": null
+  },
+  "pinsir": {
+    "en-US": "Pinsir",
+    "fr-FR": "Scarabrute",
+    "es-ES": "Pinsir",
+    "pt-BR": null
+  },
+  "tauros": {
+    "en-US": "Tauros",
+    "fr-FR": "Tauros",
+    "es-ES": "Tauros",
+    "pt-BR": null
+  },
+  "magikarp": {
+    "en-US": "Magikarp",
+    "fr-FR": "Magicarpe",
+    "es-ES": "Magikarp",
+    "pt-BR": null
+  },
+  "gyarados": {
+    "en-US": "Gyarados",
+    "fr-FR": "Léviator",
+    "es-ES": "Gyarados",
+    "pt-BR": null
+  },
+  "lapras": {
+    "en-US": "Lapras",
+    "fr-FR": "Lokhlass",
+    "es-ES": "Lapras",
+    "pt-BR": null
+  },
+  "ditto": {
+    "en-US": "Ditto",
+    "fr-FR": "Métamorph",
+    "es-ES": "Ditto",
+    "pt-BR": null
+  },
+  "eevee": {
+    "en-US": "Eevee",
+    "fr-FR": "Évoli",
+    "es-ES": "Eevee",
+    "pt-BR": null
+  },
+  "vaporeon": {
+    "en-US": "Vaporeon",
+    "fr-FR": "Aquali",
+    "es-ES": "Vaporeon",
+    "pt-BR": null
+  },
+  "jolteon": {
+    "en-US": "Jolteon",
+    "fr-FR": "Voltali",
+    "es-ES": "Jolteon",
+    "pt-BR": null
+  },
+  "flareon": {
+    "en-US": "Flareon",
+    "fr-FR": "Pyroli",
+    "es-ES": "Flareon",
+    "pt-BR": null
+  },
+  "porygon": {
+    "en-US": "Porygon",
+    "fr-FR": "Porygon",
+    "es-ES": "Porygon",
+    "pt-BR": null
+  },
+  "omanyte": {
+    "en-US": "Omanyte",
+    "fr-FR": "Amonita",
+    "es-ES": "Omanyte",
+    "pt-BR": null
+  },
+  "omastar": {
+    "en-US": "Omastar",
+    "fr-FR": "Amonistar",
+    "es-ES": "Omastar",
+    "pt-BR": null
+  },
+  "kabuto": {
+    "en-US": "Kabuto",
+    "fr-FR": "Kabuto",
+    "es-ES": "Kabuto",
+    "pt-BR": null
+  },
+  "kabutops": {
+    "en-US": "Kabutops",
+    "fr-FR": "Kabutops",
+    "es-ES": "Kabutops",
+    "pt-BR": null
+  },
+  "aerodactyl": {
+    "en-US": "Aerodactyl",
+    "fr-FR": "Ptéra",
+    "es-ES": "Aerodactyl",
+    "pt-BR": null
+  },
+  "snorlax": {
+    "en-US": "Snorlax",
+    "fr-FR": "Ronflex",
+    "es-ES": "Snorlax",
+    "pt-BR": null
+  },
+  "articuno": {
+    "en-US": "Articuno",
+    "fr-FR": "Artikodin",
+    "es-ES": "Articuno",
+    "pt-BR": null
+  },
+  "zapdos": {
+    "en-US": "Zapdos",
+    "fr-FR": "Électhor",
+    "es-ES": "Zapdos",
+    "pt-BR": null
+  },
+  "moltres": {
+    "en-US": "Moltres",
+    "fr-FR": "Sulfura",
+    "es-ES": "Moltres",
+    "pt-BR": null
+  },
+  "dratini": {
+    "en-US": "Dratini",
+    "fr-FR": "Minidraco",
+    "es-ES": "Dratini",
+    "pt-BR": null
+  },
+  "dragonair": {
+    "en-US": "Dragonair",
+    "fr-FR": "Draco",
+    "es-ES": "Dragonair",
+    "pt-BR": null
+  },
+  "dragonite": {
+    "en-US": "Dragonite",
+    "fr-FR": "Dracolosse",
+    "es-ES": "Dragonite",
+    "pt-BR": null
+  },
+  "mewtwo": {
+    "en-US": "Mewtwo",
+    "fr-FR": "Mewtwo",
+    "es-ES": "Mewtwo",
+    "pt-BR": null
+  },
+  "mew": {
+    "en-US": "Mew",
+    "fr-FR": "Mew",
+    "es-ES": "Mew",
+    "pt-BR": null
+  },
+  "chikorita": {
+    "en-US": "Chikorita",
+    "fr-FR": "Germignon",
+    "es-ES": "Chikorita",
+    "pt-BR": null
+  },
+  "bayleef": {
+    "en-US": "Bayleef",
+    "fr-FR": "Macronium",
+    "es-ES": "Bayleef",
+    "pt-BR": null
+  },
+  "meganium": {
+    "en-US": "Meganium",
+    "fr-FR": "Méganium",
+    "es-ES": "Meganium",
+    "pt-BR": null
+  },
+  "cyndaquil": {
+    "en-US": "Cyndaquil",
+    "fr-FR": "Héricendre",
+    "es-ES": "Cyndaquil",
+    "pt-BR": null
+  },
+  "quilava": {
+    "en-US": "Quilava",
+    "fr-FR": "Feurisson",
+    "es-ES": "Quilava",
+    "pt-BR": null
+  },
+  "typhlosion": {
+    "en-US": "Typhlosion",
+    "fr-FR": "Typhlosion",
+    "es-ES": "Typhlosion",
+    "pt-BR": null
+  },
+  "totodile": {
+    "en-US": "Totodile",
+    "fr-FR": "Kaiminus",
+    "es-ES": "Totodile",
+    "pt-BR": null
+  },
+  "croconaw": {
+    "en-US": "Croconaw",
+    "fr-FR": "Crocrodil",
+    "es-ES": "Croconaw",
+    "pt-BR": null
+  },
+  "feraligatr": {
+    "en-US": "Feraligatr",
+    "fr-FR": "Aligatueur",
+    "es-ES": "Feraligatr",
+    "pt-BR": null
+  },
+  "sentret": {
+    "en-US": "Sentret",
+    "fr-FR": "Fouinette",
+    "es-ES": "Sentret",
+    "pt-BR": null
+  },
+  "furret": {
+    "en-US": "Furret",
+    "fr-FR": "Fouinar",
+    "es-ES": "Furret",
+    "pt-BR": null
+  },
+  "hoothoot": {
+    "en-US": "Hoothoot",
+    "fr-FR": "Hoothoot",
+    "es-ES": "Hoothoot",
+    "pt-BR": null
+  },
+  "noctowl": {
+    "en-US": "Noctowl",
+    "fr-FR": "Noarfang",
+    "es-ES": "Noctowl",
+    "pt-BR": null
+  },
+  "ledyba": {
+    "en-US": "Ledyba",
+    "fr-FR": "Coxy",
+    "es-ES": "Ledyba",
+    "pt-BR": null
+  },
+  "ledian": {
+    "en-US": "Ledian",
+    "fr-FR": "Coxyclaque",
+    "es-ES": "Ledian",
+    "pt-BR": null
+  },
+  "spinarak": {
+    "en-US": "Spinarak",
+    "fr-FR": "Mimigal",
+    "es-ES": "Spinarak",
+    "pt-BR": null
+  },
+  "ariados": {
+    "en-US": "Ariados",
+    "fr-FR": "Migalos",
+    "es-ES": "Ariados",
+    "pt-BR": null
+  },
+  "crobat": {
+    "en-US": "Crobat",
+    "fr-FR": "Nostenfer",
+    "es-ES": "Crobat",
+    "pt-BR": null
+  },
+  "chinchou": {
+    "en-US": "Chinchou",
+    "fr-FR": "Loupio",
+    "es-ES": "Chinchou",
+    "pt-BR": null
+  },
+  "lanturn": {
+    "en-US": "Lanturn",
+    "fr-FR": "Lanturn",
+    "es-ES": "Lanturn",
+    "pt-BR": null
+  },
+  "pichu": {
+    "en-US": "Pichu",
+    "fr-FR": "Pichu",
+    "es-ES": "Pichu",
+    "pt-BR": null
+  },
+  "cleffa": {
+    "en-US": "Cleffa",
+    "fr-FR": "Mélo",
+    "es-ES": "Cleffa",
+    "pt-BR": null
+  },
+  "igglybuff": {
+    "en-US": "Igglybuff",
+    "fr-FR": "Toudoudou",
+    "es-ES": "Igglybuff",
+    "pt-BR": null
+  },
+  "togepi": {
+    "en-US": "Togepi",
+    "fr-FR": "Togepi",
+    "es-ES": "Togepi",
+    "pt-BR": null
+  },
+  "togetic": {
+    "en-US": "Togetic",
+    "fr-FR": "Togetic",
+    "es-ES": "Togetic",
+    "pt-BR": null
+  },
+  "natu": {
+    "en-US": "Natu",
+    "fr-FR": "Natu",
+    "es-ES": "Natu",
+    "pt-BR": null
+  },
+  "xatu": {
+    "en-US": "Xatu",
+    "fr-FR": "Xatu",
+    "es-ES": "Xatu",
+    "pt-BR": null
+  },
+  "mareep": {
+    "en-US": "Mareep",
+    "fr-FR": "Wattouat",
+    "es-ES": "Mareep",
+    "pt-BR": null
+  },
+  "flaaffy": {
+    "en-US": "Flaaffy",
+    "fr-FR": "Lainergie",
+    "es-ES": "Flaaffy",
+    "pt-BR": null
+  },
+  "ampharos": {
+    "en-US": "Ampharos",
+    "fr-FR": "Pharamp",
+    "es-ES": "Ampharos",
+    "pt-BR": null
+  },
+  "bellossom": {
+    "en-US": "Bellossom",
+    "fr-FR": "Joliflor",
+    "es-ES": "Bellossom",
+    "pt-BR": null
+  },
+  "marill": {
+    "en-US": "Marill",
+    "fr-FR": "Marill",
+    "es-ES": "Marill",
+    "pt-BR": null
+  },
+  "azumarill": {
+    "en-US": "Azumarill",
+    "fr-FR": "Azumarill",
+    "es-ES": "Azumarill",
+    "pt-BR": null
+  },
+  "sudowoodo": {
+    "en-US": "Sudowoodo",
+    "fr-FR": "Simularbre",
+    "es-ES": "Sudowoodo",
+    "pt-BR": null
+  },
+  "politoed": {
+    "en-US": "Politoed",
+    "fr-FR": "Tarpaud",
+    "es-ES": "Politoed",
+    "pt-BR": null
+  },
+  "hoppip": {
+    "en-US": "Hoppip",
+    "fr-FR": "Granivol",
+    "es-ES": "Hoppip",
+    "pt-BR": null
+  },
+  "skiploom": {
+    "en-US": "Skiploom",
+    "fr-FR": "Floravol",
+    "es-ES": "Skiploom",
+    "pt-BR": null
+  },
+  "jumpluff": {
+    "en-US": "Jumpluff",
+    "fr-FR": "Cotovol",
+    "es-ES": "Jumpluff",
+    "pt-BR": null
+  },
+  "aipom": {
+    "en-US": "Aipom",
+    "fr-FR": "Capumain",
+    "es-ES": "Aipom",
+    "pt-BR": null
+  },
+  "sunkern": {
+    "en-US": "Sunkern",
+    "fr-FR": "Tournegrin",
+    "es-ES": "Sunkern",
+    "pt-BR": null
+  },
+  "sunflora": {
+    "en-US": "Sunflora",
+    "fr-FR": "Héliatronc",
+    "es-ES": "Sunflora",
+    "pt-BR": null
+  },
+  "yanma": {
+    "en-US": "Yanma",
+    "fr-FR": "Yanma",
+    "es-ES": "Yanma",
+    "pt-BR": null
+  },
+  "wooper": {
+    "en-US": "Wooper",
+    "fr-FR": "Axoloto",
+    "es-ES": "Wooper",
+    "pt-BR": null
+  },
+  "quagsire": {
+    "en-US": "Quagsire",
+    "fr-FR": "Maraiste",
+    "es-ES": "Quagsire",
+    "pt-BR": null
+  },
+  "espeon": {
+    "en-US": "Espeon",
+    "fr-FR": "Mentali",
+    "es-ES": "Espeon",
+    "pt-BR": null
+  },
+  "umbreon": {
+    "en-US": "Umbreon",
+    "fr-FR": "Noctali",
+    "es-ES": "Umbreon",
+    "pt-BR": null
+  },
+  "murkrow": {
+    "en-US": "Murkrow",
+    "fr-FR": "Cornèbre",
+    "es-ES": "Murkrow",
+    "pt-BR": null
+  },
+  "slowking": {
+    "en-US": "Slowking",
+    "fr-FR": "Roigada",
+    "es-ES": "Slowking",
+    "pt-BR": null
+  },
+  "misdreavus": {
+    "en-US": "Misdreavus",
+    "fr-FR": "Feuforêve",
+    "es-ES": "Misdreavus",
+    "pt-BR": null
+  },
+  "unown": {
+    "en-US": "Unown",
+    "fr-FR": "Zarbi",
+    "es-ES": "Unown",
+    "pt-BR": null
+  },
+  "wobbuffet": {
+    "en-US": "Wobbuffet",
+    "fr-FR": "Qulbutoké",
+    "es-ES": "Wobbuffet",
+    "pt-BR": null
+  },
+  "girafarig": {
+    "en-US": "Girafarig",
+    "fr-FR": "Girafarig",
+    "es-ES": "Girafarig",
+    "pt-BR": null
+  },
+  "pineco": {
+    "en-US": "Pineco",
+    "fr-FR": "Pomdepik",
+    "es-ES": "Pineco",
+    "pt-BR": null
+  },
+  "forretress": {
+    "en-US": "Forretress",
+    "fr-FR": "Foretress",
+    "es-ES": "Forretress",
+    "pt-BR": null
+  },
+  "dunsparce": {
+    "en-US": "Dunsparce",
+    "fr-FR": "Insolourdo",
+    "es-ES": "Dunsparce",
+    "pt-BR": null
+  },
+  "gligar": {
+    "en-US": "Gligar",
+    "fr-FR": "Scorplane",
+    "es-ES": "Gligar",
+    "pt-BR": null
+  },
+  "steelix": {
+    "en-US": "Steelix",
+    "fr-FR": "Steelix",
+    "es-ES": "Steelix",
+    "pt-BR": null
+  },
+  "snubbull": {
+    "en-US": "Snubbull",
+    "fr-FR": "Snubbull",
+    "es-ES": "Snubbull",
+    "pt-BR": null
+  },
+  "granbull": {
+    "en-US": "Granbull",
+    "fr-FR": "Granbull",
+    "es-ES": "Granbull",
+    "pt-BR": null
+  },
+  "qwilfish": {
+    "en-US": "Qwilfish",
+    "fr-FR": "Qwilfish",
+    "es-ES": "Qwilfish",
+    "pt-BR": null
+  },
+  "scizor": {
+    "en-US": "Scizor",
+    "fr-FR": "Cizayox",
+    "es-ES": "Scizor",
+    "pt-BR": null
+  },
+  "shuckle": {
+    "en-US": "Shuckle",
+    "fr-FR": "Caratroc",
+    "es-ES": "Shuckle",
+    "pt-BR": null
+  },
+  "heracross": {
+    "en-US": "Heracross",
+    "fr-FR": "Scarhino",
+    "es-ES": "Heracross",
+    "pt-BR": null
+  },
+  "sneasel": {
+    "en-US": "Sneasel",
+    "fr-FR": "Farfuret",
+    "es-ES": "Sneasel",
+    "pt-BR": null
+  },
+  "teddiursa": {
+    "en-US": "Teddiursa",
+    "fr-FR": "Teddiursa",
+    "es-ES": "Teddiursa",
+    "pt-BR": null
+  },
+  "ursaring": {
+    "en-US": "Ursaring",
+    "fr-FR": "Ursaring",
+    "es-ES": "Ursaring",
+    "pt-BR": null
+  },
+  "slugma": {
+    "en-US": "Slugma",
+    "fr-FR": "Limagma",
+    "es-ES": "Slugma",
+    "pt-BR": null
+  },
+  "magcargo": {
+    "en-US": "Magcargo",
+    "fr-FR": "Volcaropod",
+    "es-ES": "Magcargo",
+    "pt-BR": null
+  },
+  "swinub": {
+    "en-US": "Swinub",
+    "fr-FR": "Marcacrin",
+    "es-ES": "Swinub",
+    "pt-BR": null
+  },
+  "piloswine": {
+    "en-US": "Piloswine",
+    "fr-FR": "Cochignon",
+    "es-ES": "Piloswine",
+    "pt-BR": null
+  },
+  "corsola": {
+    "en-US": "Corsola",
+    "fr-FR": "Corayon",
+    "es-ES": "Corsola",
+    "pt-BR": null
+  },
+  "remoraid": {
+    "en-US": "Remoraid",
+    "fr-FR": "Rémoraid",
+    "es-ES": "Remoraid",
+    "pt-BR": null
+  },
+  "octillery": {
+    "en-US": "Octillery",
+    "fr-FR": "Octillery",
+    "es-ES": "Octillery",
+    "pt-BR": null
+  },
+  "delibird": {
+    "en-US": "Delibird",
+    "fr-FR": "Cadoizo",
+    "es-ES": "Delibird",
+    "pt-BR": null
+  },
+  "mantine": {
+    "en-US": "Mantine",
+    "fr-FR": "Démanta",
+    "es-ES": "Mantine",
+    "pt-BR": null
+  },
+  "skarmory": {
+    "en-US": "Skarmory",
+    "fr-FR": "Airmure",
+    "es-ES": "Skarmory",
+    "pt-BR": null
+  },
+  "houndour": {
+    "en-US": "Houndour",
+    "fr-FR": "Malosse",
+    "es-ES": "Houndour",
+    "pt-BR": null
+  },
+  "houndoom": {
+    "en-US": "Houndoom",
+    "fr-FR": "Démolosse",
+    "es-ES": "Houndoom",
+    "pt-BR": null
+  },
+  "kingdra": {
+    "en-US": "Kingdra",
+    "fr-FR": "Hyporoi",
+    "es-ES": "Kingdra",
+    "pt-BR": null
+  },
+  "phanpy": {
+    "en-US": "Phanpy",
+    "fr-FR": "Phanpy",
+    "es-ES": "Phanpy",
+    "pt-BR": null
+  },
+  "donphan": {
+    "en-US": "Donphan",
+    "fr-FR": "Donphan",
+    "es-ES": "Donphan",
+    "pt-BR": null
+  },
+  "porygon2": {
+    "en-US": "Porygon2",
+    "fr-FR": "Porygon2",
+    "es-ES": "Porygon2",
+    "pt-BR": null
+  },
+  "stantler": {
+    "en-US": "Stantler",
+    "fr-FR": "Cerfrousse",
+    "es-ES": "Stantler",
+    "pt-BR": null
+  },
+  "smeargle": {
+    "en-US": "Smeargle",
+    "fr-FR": "Queulorior",
+    "es-ES": "Smeargle",
+    "pt-BR": null
+  },
+  "tyrogue": {
+    "en-US": "Tyrogue",
+    "fr-FR": "Debugant",
+    "es-ES": "Tyrogue",
+    "pt-BR": null
+  },
+  "hitmontop": {
+    "en-US": "Hitmontop",
+    "fr-FR": "Kapoera",
+    "es-ES": "Hitmontop",
+    "pt-BR": null
+  },
+  "smoochum": {
+    "en-US": "Smoochum",
+    "fr-FR": "Lippouti",
+    "es-ES": "Smoochum",
+    "pt-BR": null
+  },
+  "elekid": {
+    "en-US": "Elekid",
+    "fr-FR": "Élekid",
+    "es-ES": "Elekid",
+    "pt-BR": null
+  },
+  "magby": {
+    "en-US": "Magby",
+    "fr-FR": "Magby",
+    "es-ES": "Magby",
+    "pt-BR": null
+  },
+  "miltank": {
+    "en-US": "Miltank",
+    "fr-FR": "Écrémeuh",
+    "es-ES": "Miltank",
+    "pt-BR": null
+  },
+  "blissey": {
+    "en-US": "Blissey",
+    "fr-FR": "Leuphorie",
+    "es-ES": "Blissey",
+    "pt-BR": null
+  },
+  "raikou": {
+    "en-US": "Raikou",
+    "fr-FR": "Raikou",
+    "es-ES": "Raikou",
+    "pt-BR": null
+  },
+  "entei": {
+    "en-US": "Entei",
+    "fr-FR": "Entei",
+    "es-ES": "Entei",
+    "pt-BR": null
+  },
+  "suicune": {
+    "en-US": "Suicune",
+    "fr-FR": "Suicune",
+    "es-ES": "Suicune",
+    "pt-BR": null
+  },
+  "larvitar": {
+    "en-US": "Larvitar",
+    "fr-FR": "Embrylex",
+    "es-ES": "Larvitar",
+    "pt-BR": null
+  },
+  "pupitar": {
+    "en-US": "Pupitar",
+    "fr-FR": "Ymphect",
+    "es-ES": "Pupitar",
+    "pt-BR": null
+  },
+  "tyranitar": {
+    "en-US": "Tyranitar",
+    "fr-FR": "Tyranocif",
+    "es-ES": "Tyranitar",
+    "pt-BR": null
+  },
+  "lugia": {
+    "en-US": "Lugia",
+    "fr-FR": "Lugia",
+    "es-ES": "Lugia",
+    "pt-BR": null
+  },
+  "ho-oh": {
+    "en-US": "Ho-Oh",
+    "fr-FR": "Ho-Oh",
+    "es-ES": "Ho-Oh",
+    "pt-BR": null
+  },
+  "celebi": {
+    "en-US": "Celebi",
+    "fr-FR": "Celebi",
+    "es-ES": "Celebi",
+    "pt-BR": null
+  },
+  "treecko": {
+    "en-US": "Treecko",
+    "fr-FR": "Arcko",
+    "es-ES": "Treecko",
+    "pt-BR": null
+  },
+  "grovyle": {
+    "en-US": "Grovyle",
+    "fr-FR": "Massko",
+    "es-ES": "Grovyle",
+    "pt-BR": null
+  },
+  "sceptile": {
+    "en-US": "Sceptile",
+    "fr-FR": "Jungko",
+    "es-ES": "Sceptile",
+    "pt-BR": null
+  },
+  "torchic": {
+    "en-US": "Torchic",
+    "fr-FR": "Poussifeu",
+    "es-ES": "Torchic",
+    "pt-BR": null
+  },
+  "combusken": {
+    "en-US": "Combusken",
+    "fr-FR": "Galifeu",
+    "es-ES": "Combusken",
+    "pt-BR": null
+  },
+  "blaziken": {
+    "en-US": "Blaziken",
+    "fr-FR": "Braségali",
+    "es-ES": "Blaziken",
+    "pt-BR": null
+  },
+  "mudkip": {
+    "en-US": "Mudkip",
+    "fr-FR": "Gobou",
+    "es-ES": "Mudkip",
+    "pt-BR": null
+  },
+  "marshtomp": {
+    "en-US": "Marshtomp",
+    "fr-FR": "Flobio",
+    "es-ES": "Marshtomp",
+    "pt-BR": null
+  },
+  "swampert": {
+    "en-US": "Swampert",
+    "fr-FR": "Laggron",
+    "es-ES": "Swampert",
+    "pt-BR": null
+  },
+  "poochyena": {
+    "en-US": "Poochyena",
+    "fr-FR": "Medhyèna",
+    "es-ES": "Poochyena",
+    "pt-BR": null
+  },
+  "mightyena": {
+    "en-US": "Mightyena",
+    "fr-FR": "Grahyèna",
+    "es-ES": "Mightyena",
+    "pt-BR": null
+  },
+  "zigzagoon": {
+    "en-US": "Zigzagoon",
+    "fr-FR": "Zigzaton",
+    "es-ES": "Zigzagoon",
+    "pt-BR": null
+  },
+  "linoone": {
+    "en-US": "Linoone",
+    "fr-FR": "Linéon",
+    "es-ES": "Linoone",
+    "pt-BR": null
+  },
+  "wurmple": {
+    "en-US": "Wurmple",
+    "fr-FR": "Chenipotte",
+    "es-ES": "Wurmple",
+    "pt-BR": null
+  },
+  "silcoon": {
+    "en-US": "Silcoon",
+    "fr-FR": "Armulys",
+    "es-ES": "Silcoon",
+    "pt-BR": null
+  },
+  "beautifly": {
+    "en-US": "Beautifly",
+    "fr-FR": "Charmillon",
+    "es-ES": "Beautifly",
+    "pt-BR": null
+  },
+  "cascoon": {
+    "en-US": "Cascoon",
+    "fr-FR": "Blindalys",
+    "es-ES": "Cascoon",
+    "pt-BR": null
+  },
+  "dustox": {
+    "en-US": "Dustox",
+    "fr-FR": "Papinox",
+    "es-ES": "Dustox",
+    "pt-BR": null
+  },
+  "lotad": {
+    "en-US": "Lotad",
+    "fr-FR": "Nénupiot",
+    "es-ES": "Lotad",
+    "pt-BR": null
+  },
+  "lombre": {
+    "en-US": "Lombre",
+    "fr-FR": "Lombre",
+    "es-ES": "Lombre",
+    "pt-BR": null
+  },
+  "ludicolo": {
+    "en-US": "Ludicolo",
+    "fr-FR": "Ludicolo",
+    "es-ES": "Ludicolo",
+    "pt-BR": null
+  },
+  "seedot": {
+    "en-US": "Seedot",
+    "fr-FR": "Grainipiot",
+    "es-ES": "Seedot",
+    "pt-BR": null
+  },
+  "nuzleaf": {
+    "en-US": "Nuzleaf",
+    "fr-FR": "Pifeuil",
+    "es-ES": "Nuzleaf",
+    "pt-BR": null
+  },
+  "shiftry": {
+    "en-US": "Shiftry",
+    "fr-FR": "Tengalice",
+    "es-ES": "Shiftry",
+    "pt-BR": null
+  },
+  "taillow": {
+    "en-US": "Taillow",
+    "fr-FR": "Nirondelle",
+    "es-ES": "Taillow",
+    "pt-BR": null
+  },
+  "swellow": {
+    "en-US": "Swellow",
+    "fr-FR": "Hélédelle",
+    "es-ES": "Swellow",
+    "pt-BR": null
+  },
+  "wingull": {
+    "en-US": "Wingull",
+    "fr-FR": "Goélise",
+    "es-ES": "Wingull",
+    "pt-BR": null
+  },
+  "pelipper": {
+    "en-US": "Pelipper",
+    "fr-FR": "Bekipan",
+    "es-ES": "Pelipper",
+    "pt-BR": null
+  },
+  "ralts": {
+    "en-US": "Ralts",
+    "fr-FR": "Tarsal",
+    "es-ES": "Ralts",
+    "pt-BR": null
+  },
+  "kirlia": {
+    "en-US": "Kirlia",
+    "fr-FR": "Kirlia",
+    "es-ES": "Kirlia",
+    "pt-BR": null
+  },
+  "gardevoir": {
+    "en-US": "Gardevoir",
+    "fr-FR": "Gardevoir",
+    "es-ES": "Gardevoir",
+    "pt-BR": null
+  },
+  "surskit": {
+    "en-US": "Surskit",
+    "fr-FR": "Arakdo",
+    "es-ES": "Surskit",
+    "pt-BR": null
+  },
+  "masquerain": {
+    "en-US": "Masquerain",
+    "fr-FR": "Maskadra",
+    "es-ES": "Masquerain",
+    "pt-BR": null
+  },
+  "shroomish": {
+    "en-US": "Shroomish",
+    "fr-FR": "Balignon",
+    "es-ES": "Shroomish",
+    "pt-BR": null
+  },
+  "breloom": {
+    "en-US": "Breloom",
+    "fr-FR": "Chapignon",
+    "es-ES": "Breloom",
+    "pt-BR": null
+  },
+  "slakoth": {
+    "en-US": "Slakoth",
+    "fr-FR": "Parecool",
+    "es-ES": "Slakoth",
+    "pt-BR": null
+  },
+  "vigoroth": {
+    "en-US": "Vigoroth",
+    "fr-FR": "Vigoroth",
+    "es-ES": "Vigoroth",
+    "pt-BR": null
+  },
+  "slaking": {
+    "en-US": "Slaking",
+    "fr-FR": "Monaflèmit",
+    "es-ES": "Slaking",
+    "pt-BR": null
+  },
+  "nincada": {
+    "en-US": "Nincada",
+    "fr-FR": "Ningale",
+    "es-ES": "Nincada",
+    "pt-BR": null
+  },
+  "ninjask": {
+    "en-US": "Ninjask",
+    "fr-FR": "Ninjask",
+    "es-ES": "Ninjask",
+    "pt-BR": null
+  },
+  "shedinja": {
+    "en-US": "Shedinja",
+    "fr-FR": "Munja",
+    "es-ES": "Shedinja",
+    "pt-BR": null
+  },
+  "whismur": {
+    "en-US": "Whismur",
+    "fr-FR": "Chuchmur",
+    "es-ES": "Whismur",
+    "pt-BR": null
+  },
+  "loudred": {
+    "en-US": "Loudred",
+    "fr-FR": "Ramboum",
+    "es-ES": "Loudred",
+    "pt-BR": null
+  },
+  "exploud": {
+    "en-US": "Exploud",
+    "fr-FR": "Brouhabam",
+    "es-ES": "Exploud",
+    "pt-BR": null
+  },
+  "makuhita": {
+    "en-US": "Makuhita",
+    "fr-FR": "Makuhita",
+    "es-ES": "Makuhita",
+    "pt-BR": null
+  },
+  "hariyama": {
+    "en-US": "Hariyama",
+    "fr-FR": "Hariyama",
+    "es-ES": "Hariyama",
+    "pt-BR": null
+  },
+  "azurill": {
+    "en-US": "Azurill",
+    "fr-FR": "Azurill",
+    "es-ES": "Azurill",
+    "pt-BR": null
+  },
+  "nosepass": {
+    "en-US": "Nosepass",
+    "fr-FR": "Tarinor",
+    "es-ES": "Nosepass",
+    "pt-BR": null
+  },
+  "skitty": {
+    "en-US": "Skitty",
+    "fr-FR": "Skitty",
+    "es-ES": "Skitty",
+    "pt-BR": null
+  },
+  "delcatty": {
+    "en-US": "Delcatty",
+    "fr-FR": "Delcatty",
+    "es-ES": "Delcatty",
+    "pt-BR": null
+  },
+  "sableye": {
+    "en-US": "Sableye",
+    "fr-FR": "Ténéfix",
+    "es-ES": "Sableye",
+    "pt-BR": null
+  },
+  "mawile": {
+    "en-US": "Mawile",
+    "fr-FR": "Mysdibule",
+    "es-ES": "Mawile",
+    "pt-BR": null
+  },
+  "aron": {
+    "en-US": "Aron",
+    "fr-FR": "Galekid",
+    "es-ES": "Aron",
+    "pt-BR": null
+  },
+  "lairon": {
+    "en-US": "Lairon",
+    "fr-FR": "Galegon",
+    "es-ES": "Lairon",
+    "pt-BR": null
+  },
+  "aggron": {
+    "en-US": "Aggron",
+    "fr-FR": "Galeking",
+    "es-ES": "Aggron",
+    "pt-BR": null
+  },
+  "meditite": {
+    "en-US": "Meditite",
+    "fr-FR": "Méditikka",
+    "es-ES": "Meditite",
+    "pt-BR": null
+  },
+  "medicham": {
+    "en-US": "Medicham",
+    "fr-FR": "Charmina",
+    "es-ES": "Medicham",
+    "pt-BR": null
+  },
+  "electrike": {
+    "en-US": "Electrike",
+    "fr-FR": "Dynavolt",
+    "es-ES": "Electrike",
+    "pt-BR": null
+  },
+  "manectric": {
+    "en-US": "Manectric",
+    "fr-FR": "Élecsprint",
+    "es-ES": "Manectric",
+    "pt-BR": null
+  },
+  "plusle": {
+    "en-US": "Plusle",
+    "fr-FR": "Posipi",
+    "es-ES": "Plusle",
+    "pt-BR": null
+  },
+  "minun": {
+    "en-US": "Minun",
+    "fr-FR": "Négapi",
+    "es-ES": "Minun",
+    "pt-BR": null
+  },
+  "volbeat": {
+    "en-US": "Volbeat",
+    "fr-FR": "Muciole",
+    "es-ES": "Volbeat",
+    "pt-BR": null
+  },
+  "illumise": {
+    "en-US": "Illumise",
+    "fr-FR": "Lumivole",
+    "es-ES": "Illumise",
+    "pt-BR": null
+  },
+  "roselia": {
+    "en-US": "Roselia",
+    "fr-FR": "Rosélia",
+    "es-ES": "Roselia",
+    "pt-BR": null
+  },
+  "gulpin": {
+    "en-US": "Gulpin",
+    "fr-FR": "Gloupti",
+    "es-ES": "Gulpin",
+    "pt-BR": null
+  },
+  "swalot": {
+    "en-US": "Swalot",
+    "fr-FR": "Avaltout",
+    "es-ES": "Swalot",
+    "pt-BR": null
+  },
+  "carvanha": {
+    "en-US": "Carvanha",
+    "fr-FR": "Carvanha",
+    "es-ES": "Carvanha",
+    "pt-BR": null
+  },
+  "sharpedo": {
+    "en-US": "Sharpedo",
+    "fr-FR": "Sharpedo",
+    "es-ES": "Sharpedo",
+    "pt-BR": null
+  },
+  "wailmer": {
+    "en-US": "Wailmer",
+    "fr-FR": "Wailmer",
+    "es-ES": "Wailmer",
+    "pt-BR": null
+  },
+  "wailord": {
+    "en-US": "Wailord",
+    "fr-FR": "Wailord",
+    "es-ES": "Wailord",
+    "pt-BR": null
+  },
+  "numel": {
+    "en-US": "Numel",
+    "fr-FR": "Chamallot",
+    "es-ES": "Numel",
+    "pt-BR": null
+  },
+  "camerupt": {
+    "en-US": "Camerupt",
+    "fr-FR": "Camérupt",
+    "es-ES": "Camerupt",
+    "pt-BR": null
+  },
+  "torkoal": {
+    "en-US": "Torkoal",
+    "fr-FR": "Chartor",
+    "es-ES": "Torkoal",
+    "pt-BR": null
+  },
+  "spoink": {
+    "en-US": "Spoink",
+    "fr-FR": "Spoink",
+    "es-ES": "Spoink",
+    "pt-BR": null
+  },
+  "grumpig": {
+    "en-US": "Grumpig",
+    "fr-FR": "Groret",
+    "es-ES": "Grumpig",
+    "pt-BR": null
+  },
+  "spinda": {
+    "en-US": "Spinda",
+    "fr-FR": "Spinda",
+    "es-ES": "Spinda",
+    "pt-BR": null
+  },
+  "trapinch": {
+    "en-US": "Trapinch",
+    "fr-FR": "Kraknoix",
+    "es-ES": "Trapinch",
+    "pt-BR": null
+  },
+  "vibrava": {
+    "en-US": "Vibrava",
+    "fr-FR": "Vibraninf",
+    "es-ES": "Vibrava",
+    "pt-BR": null
+  },
+  "flygon": {
+    "en-US": "Flygon",
+    "fr-FR": "Libégon",
+    "es-ES": "Flygon",
+    "pt-BR": null
+  },
+  "cacnea": {
+    "en-US": "Cacnea",
+    "fr-FR": "Cacnea",
+    "es-ES": "Cacnea",
+    "pt-BR": null
+  },
+  "cacturne": {
+    "en-US": "Cacturne",
+    "fr-FR": "Cacturne",
+    "es-ES": "Cacturne",
+    "pt-BR": null
+  },
+  "swablu": {
+    "en-US": "Swablu",
+    "fr-FR": "Tylton",
+    "es-ES": "Swablu",
+    "pt-BR": null
+  },
+  "altaria": {
+    "en-US": "Altaria",
+    "fr-FR": "Altaria",
+    "es-ES": "Altaria",
+    "pt-BR": null
+  },
+  "zangoose": {
+    "en-US": "Zangoose",
+    "fr-FR": "Mangriff",
+    "es-ES": "Zangoose",
+    "pt-BR": null
+  },
+  "seviper": {
+    "en-US": "Seviper",
+    "fr-FR": "Séviper",
+    "es-ES": "Seviper",
+    "pt-BR": null
+  },
+  "lunatone": {
+    "en-US": "Lunatone",
+    "fr-FR": "Séléroc",
+    "es-ES": "Lunatone",
+    "pt-BR": null
+  },
+  "solrock": {
+    "en-US": "Solrock",
+    "fr-FR": "Solaroc",
+    "es-ES": "Solrock",
+    "pt-BR": null
+  },
+  "barboach": {
+    "en-US": "Barboach",
+    "fr-FR": "Barloche",
+    "es-ES": "Barboach",
+    "pt-BR": null
+  },
+  "whiscash": {
+    "en-US": "Whiscash",
+    "fr-FR": "Barbicha",
+    "es-ES": "Whiscash",
+    "pt-BR": null
+  },
+  "corphish": {
+    "en-US": "Corphish",
+    "fr-FR": "Écrapince",
+    "es-ES": "Corphish",
+    "pt-BR": null
+  },
+  "crawdaunt": {
+    "en-US": "Crawdaunt",
+    "fr-FR": "Colhomard",
+    "es-ES": "Crawdaunt",
+    "pt-BR": null
+  },
+  "baltoy": {
+    "en-US": "Baltoy",
+    "fr-FR": "Balbuto",
+    "es-ES": "Baltoy",
+    "pt-BR": null
+  },
+  "claydol": {
+    "en-US": "Claydol",
+    "fr-FR": "Kaorine",
+    "es-ES": "Claydol",
+    "pt-BR": null
+  },
+  "lileep": {
+    "en-US": "Lileep",
+    "fr-FR": "Lilia",
+    "es-ES": "Lileep",
+    "pt-BR": null
+  },
+  "cradily": {
+    "en-US": "Cradily",
+    "fr-FR": "Vacilys",
+    "es-ES": "Cradily",
+    "pt-BR": null
+  },
+  "anorith": {
+    "en-US": "Anorith",
+    "fr-FR": "Anorith",
+    "es-ES": "Anorith",
+    "pt-BR": null
+  },
+  "armaldo": {
+    "en-US": "Armaldo",
+    "fr-FR": "Armaldo",
+    "es-ES": "Armaldo",
+    "pt-BR": null
+  },
+  "feebas": {
+    "en-US": "Feebas",
+    "fr-FR": "Barpau",
+    "es-ES": "Feebas",
+    "pt-BR": null
+  },
+  "milotic": {
+    "en-US": "Milotic",
+    "fr-FR": "Milobellus",
+    "es-ES": "Milotic",
+    "pt-BR": null
+  },
+  "castform": {
+    "en-US": "Castform",
+    "fr-FR": "Morphéo",
+    "es-ES": "Castform",
+    "pt-BR": null
+  },
+  "kecleon": {
+    "en-US": "Kecleon",
+    "fr-FR": "Kecleon",
+    "es-ES": "Kecleon",
+    "pt-BR": null
+  },
+  "shuppet": {
+    "en-US": "Shuppet",
+    "fr-FR": "Polichombr",
+    "es-ES": "Shuppet",
+    "pt-BR": null
+  },
+  "banette": {
+    "en-US": "Banette",
+    "fr-FR": "Branette",
+    "es-ES": "Banette",
+    "pt-BR": null
+  },
+  "duskull": {
+    "en-US": "Duskull",
+    "fr-FR": "Skelénox",
+    "es-ES": "Duskull",
+    "pt-BR": null
+  },
+  "dusclops": {
+    "en-US": "Dusclops",
+    "fr-FR": "Téraclope",
+    "es-ES": "Dusclops",
+    "pt-BR": null
+  },
+  "tropius": {
+    "en-US": "Tropius",
+    "fr-FR": "Tropius",
+    "es-ES": "Tropius",
+    "pt-BR": null
+  },
+  "chimecho": {
+    "en-US": "Chimecho",
+    "fr-FR": "Éoko",
+    "es-ES": "Chimecho",
+    "pt-BR": null
+  },
+  "absol": {
+    "en-US": "Absol",
+    "fr-FR": "Absol",
+    "es-ES": "Absol",
+    "pt-BR": null
+  },
+  "wynaut": {
+    "en-US": "Wynaut",
+    "fr-FR": "Okéoké",
+    "es-ES": "Wynaut",
+    "pt-BR": null
+  },
+  "snorunt": {
+    "en-US": "Snorunt",
+    "fr-FR": "Stalgamin",
+    "es-ES": "Snorunt",
+    "pt-BR": null
+  },
+  "glalie": {
+    "en-US": "Glalie",
+    "fr-FR": "Oniglali",
+    "es-ES": "Glalie",
+    "pt-BR": null
+  },
+  "spheal": {
+    "en-US": "Spheal",
+    "fr-FR": "Obalie",
+    "es-ES": "Spheal",
+    "pt-BR": null
+  },
+  "sealeo": {
+    "en-US": "Sealeo",
+    "fr-FR": "Phogleur",
+    "es-ES": "Sealeo",
+    "pt-BR": null
+  },
+  "walrein": {
+    "en-US": "Walrein",
+    "fr-FR": "Kaimorse",
+    "es-ES": "Walrein",
+    "pt-BR": null
+  },
+  "clamperl": {
+    "en-US": "Clamperl",
+    "fr-FR": "Coquiperl",
+    "es-ES": "Clamperl",
+    "pt-BR": null
+  },
+  "huntail": {
+    "en-US": "Huntail",
+    "fr-FR": "Serpang",
+    "es-ES": "Huntail",
+    "pt-BR": null
+  },
+  "gorebyss": {
+    "en-US": "Gorebyss",
+    "fr-FR": "Rosabyss",
+    "es-ES": "Gorebyss",
+    "pt-BR": null
+  },
+  "relicanth": {
+    "en-US": "Relicanth",
+    "fr-FR": "Relicanth",
+    "es-ES": "Relicanth",
+    "pt-BR": null
+  },
+  "luvdisc": {
+    "en-US": "Luvdisc",
+    "fr-FR": "Lovdisc",
+    "es-ES": "Luvdisc",
+    "pt-BR": null
+  },
+  "bagon": {
+    "en-US": "Bagon",
+    "fr-FR": "Draby",
+    "es-ES": "Bagon",
+    "pt-BR": null
+  },
+  "shelgon": {
+    "en-US": "Shelgon",
+    "fr-FR": "Drackhaus",
+    "es-ES": "Shelgon",
+    "pt-BR": null
+  },
+  "salamence": {
+    "en-US": "Salamence",
+    "fr-FR": "Drattak",
+    "es-ES": "Salamence",
+    "pt-BR": null
+  },
+  "beldum": {
+    "en-US": "Beldum",
+    "fr-FR": "Terhal",
+    "es-ES": "Beldum",
+    "pt-BR": null
+  },
+  "metang": {
+    "en-US": "Metang",
+    "fr-FR": "Métang",
+    "es-ES": "Metang",
+    "pt-BR": null
+  },
+  "metagross": {
+    "en-US": "Metagross",
+    "fr-FR": "Métalosse",
+    "es-ES": "Metagross",
+    "pt-BR": null
+  },
+  "regirock": {
+    "en-US": "Regirock",
+    "fr-FR": "Regirock",
+    "es-ES": "Regirock",
+    "pt-BR": null
+  },
+  "regice": {
+    "en-US": "Regice",
+    "fr-FR": "Regice",
+    "es-ES": "Regice",
+    "pt-BR": null
+  },
+  "registeel": {
+    "en-US": "Registeel",
+    "fr-FR": "Registeel",
+    "es-ES": "Registeel",
+    "pt-BR": null
+  },
+  "latias": {
+    "en-US": "Latias",
+    "fr-FR": "Latias",
+    "es-ES": "Latias",
+    "pt-BR": null
+  },
+  "latios": {
+    "en-US": "Latios",
+    "fr-FR": "Latios",
+    "es-ES": "Latios",
+    "pt-BR": null
+  },
+  "kyogre": {
+    "en-US": "Kyogre",
+    "fr-FR": "Kyogre",
+    "es-ES": "Kyogre",
+    "pt-BR": null
+  },
+  "groudon": {
+    "en-US": "Groudon",
+    "fr-FR": "Groudon",
+    "es-ES": "Groudon",
+    "pt-BR": null
+  },
+  "rayquaza": {
+    "en-US": "Rayquaza",
+    "fr-FR": "Rayquaza",
+    "es-ES": "Rayquaza",
+    "pt-BR": null
+  },
+  "jirachi": {
+    "en-US": "Jirachi",
+    "fr-FR": "Jirachi",
+    "es-ES": "Jirachi",
+    "pt-BR": null
+  },
+  "deoxys": {
+    "en-US": "Deoxys",
+    "fr-FR": "Deoxys",
+    "es-ES": "Deoxys",
+    "pt-BR": null
+  },
+  "turtwig": {
+    "en-US": "Turtwig",
+    "fr-FR": "Tortipouss",
+    "es-ES": "Turtwig",
+    "pt-BR": null
+  },
+  "grotle": {
+    "en-US": "Grotle",
+    "fr-FR": "Boskara",
+    "es-ES": "Grotle",
+    "pt-BR": null
+  },
+  "torterra": {
+    "en-US": "Torterra",
+    "fr-FR": "Torterra",
+    "es-ES": "Torterra",
+    "pt-BR": null
+  },
+  "chimchar": {
+    "en-US": "Chimchar",
+    "fr-FR": "Ouisticram",
+    "es-ES": "Chimchar",
+    "pt-BR": null
+  },
+  "monferno": {
+    "en-US": "Monferno",
+    "fr-FR": "Chimpenfeu",
+    "es-ES": "Monferno",
+    "pt-BR": null
+  },
+  "infernape": {
+    "en-US": "Infernape",
+    "fr-FR": "Simiabraz",
+    "es-ES": "Infernape",
+    "pt-BR": null
+  },
+  "piplup": {
+    "en-US": "Piplup",
+    "fr-FR": "Tiplouf",
+    "es-ES": "Piplup",
+    "pt-BR": null
+  },
+  "prinplup": {
+    "en-US": "Prinplup",
+    "fr-FR": "Prinplouf",
+    "es-ES": "Prinplup",
+    "pt-BR": null
+  },
+  "empoleon": {
+    "en-US": "Empoleon",
+    "fr-FR": "Pingoléon",
+    "es-ES": "Empoleon",
+    "pt-BR": null
+  },
+  "starly": {
+    "en-US": "Starly",
+    "fr-FR": "Étourmi",
+    "es-ES": "Starly",
+    "pt-BR": null
+  },
+  "staravia": {
+    "en-US": "Staravia",
+    "fr-FR": "Étourvol",
+    "es-ES": "Staravia",
+    "pt-BR": null
+  },
+  "staraptor": {
+    "en-US": "Staraptor",
+    "fr-FR": "Étouraptor",
+    "es-ES": "Staraptor",
+    "pt-BR": null
+  },
+  "bidoof": {
+    "en-US": "Bidoof",
+    "fr-FR": "Keunotor",
+    "es-ES": "Bidoof",
+    "pt-BR": null
+  },
+  "bibarel": {
+    "en-US": "Bibarel",
+    "fr-FR": "Castorno",
+    "es-ES": "Bibarel",
+    "pt-BR": null
+  },
+  "kricketot": {
+    "en-US": "Kricketot",
+    "fr-FR": "Crikzik",
+    "es-ES": "Kricketot",
+    "pt-BR": null
+  },
+  "kricketune": {
+    "en-US": "Kricketune",
+    "fr-FR": "Mélokrik",
+    "es-ES": "Kricketune",
+    "pt-BR": null
+  },
+  "shinx": {
+    "en-US": "Shinx",
+    "fr-FR": "Lixy",
+    "es-ES": "Shinx",
+    "pt-BR": null
+  },
+  "luxio": {
+    "en-US": "Luxio",
+    "fr-FR": "Luxio",
+    "es-ES": "Luxio",
+    "pt-BR": null
+  },
+  "luxray": {
+    "en-US": "Luxray",
+    "fr-FR": "Luxray",
+    "es-ES": "Luxray",
+    "pt-BR": null
+  },
+  "budew": {
+    "en-US": "Budew",
+    "fr-FR": "Rozbouton",
+    "es-ES": "Budew",
+    "pt-BR": null
+  },
+  "roserade": {
+    "en-US": "Roserade",
+    "fr-FR": "Roserade",
+    "es-ES": "Roserade",
+    "pt-BR": null
+  },
+  "cranidos": {
+    "en-US": "Cranidos",
+    "fr-FR": "Kranidos",
+    "es-ES": "Cranidos",
+    "pt-BR": null
+  },
+  "rampardos": {
+    "en-US": "Rampardos",
+    "fr-FR": "Charkos",
+    "es-ES": "Rampardos",
+    "pt-BR": null
+  },
+  "shieldon": {
+    "en-US": "Shieldon",
+    "fr-FR": "Dinoclier",
+    "es-ES": "Shieldon",
+    "pt-BR": null
+  },
+  "bastiodon": {
+    "en-US": "Bastiodon",
+    "fr-FR": "Bastiodon",
+    "es-ES": "Bastiodon",
+    "pt-BR": null
+  },
+  "burmy": {
+    "en-US": "Burmy",
+    "fr-FR": "Cheniti",
+    "es-ES": "Burmy",
+    "pt-BR": null
+  },
+  "wormadam": {
+    "en-US": "Wormadam",
+    "fr-FR": "Cheniselle",
+    "es-ES": "Wormadam",
+    "pt-BR": null
+  },
+  "mothim": {
+    "en-US": "Mothim",
+    "fr-FR": "Papilord",
+    "es-ES": "Mothim",
+    "pt-BR": null
+  },
+  "combee": {
+    "en-US": "Combee",
+    "fr-FR": "Apitrini",
+    "es-ES": "Combee",
+    "pt-BR": null
+  },
+  "vespiquen": {
+    "en-US": "Vespiquen",
+    "fr-FR": "Apireine",
+    "es-ES": "Vespiquen",
+    "pt-BR": null
+  },
+  "pachirisu": {
+    "en-US": "Pachirisu",
+    "fr-FR": "Pachirisu",
+    "es-ES": "Pachirisu",
+    "pt-BR": null
+  },
+  "buizel": {
+    "en-US": "Buizel",
+    "fr-FR": "Mustébouée",
+    "es-ES": "Buizel",
+    "pt-BR": null
+  },
+  "floatzel": {
+    "en-US": "Floatzel",
+    "fr-FR": "Mustéflott",
+    "es-ES": "Floatzel",
+    "pt-BR": null
+  },
+  "cherubi": {
+    "en-US": "Cherubi",
+    "fr-FR": "Ceribou",
+    "es-ES": "Cherubi",
+    "pt-BR": null
+  },
+  "cherrim": {
+    "en-US": "Cherrim",
+    "fr-FR": "Ceriflor",
+    "es-ES": "Cherrim",
+    "pt-BR": null
+  },
+  "shellos": {
+    "en-US": "Shellos",
+    "fr-FR": "Sancoki",
+    "es-ES": "Shellos",
+    "pt-BR": null
+  },
+  "gastrodon": {
+    "en-US": "Gastrodon",
+    "fr-FR": "Tritosor",
+    "es-ES": "Gastrodon",
+    "pt-BR": null
+  },
+  "ambipom": {
+    "en-US": "Ambipom",
+    "fr-FR": "Capidextre",
+    "es-ES": "Ambipom",
+    "pt-BR": null
+  },
+  "drifloon": {
+    "en-US": "Drifloon",
+    "fr-FR": "Baudrive",
+    "es-ES": "Drifloon",
+    "pt-BR": null
+  },
+  "drifblim": {
+    "en-US": "Drifblim",
+    "fr-FR": "Grodrive",
+    "es-ES": "Drifblim",
+    "pt-BR": null
+  },
+  "buneary": {
+    "en-US": "Buneary",
+    "fr-FR": "Laporeille",
+    "es-ES": "Buneary",
+    "pt-BR": null
+  },
+  "lopunny": {
+    "en-US": "Lopunny",
+    "fr-FR": "Lockpin",
+    "es-ES": "Lopunny",
+    "pt-BR": null
+  },
+  "mismagius": {
+    "en-US": "Mismagius",
+    "fr-FR": "Magirêve",
+    "es-ES": "Mismagius",
+    "pt-BR": null
+  },
+  "honchkrow": {
+    "en-US": "Honchkrow",
+    "fr-FR": "Corboss",
+    "es-ES": "Honchkrow",
+    "pt-BR": null
+  },
+  "glameow": {
+    "en-US": "Glameow",
+    "fr-FR": "Chaglam",
+    "es-ES": "Glameow",
+    "pt-BR": null
+  },
+  "purugly": {
+    "en-US": "Purugly",
+    "fr-FR": "Chaffreux",
+    "es-ES": "Purugly",
+    "pt-BR": null
+  },
+  "chingling": {
+    "en-US": "Chingling",
+    "fr-FR": "Korillon",
+    "es-ES": "Chingling",
+    "pt-BR": null
+  },
+  "stunky": {
+    "en-US": "Stunky",
+    "fr-FR": "Moufouette",
+    "es-ES": "Stunky",
+    "pt-BR": null
+  },
+  "skuntank": {
+    "en-US": "Skuntank",
+    "fr-FR": "Moufflair",
+    "es-ES": "Skuntank",
+    "pt-BR": null
+  },
+  "bronzor": {
+    "en-US": "Bronzor",
+    "fr-FR": "Archéomire",
+    "es-ES": "Bronzor",
+    "pt-BR": null
+  },
+  "bronzong": {
+    "en-US": "Bronzong",
+    "fr-FR": "Archéodong",
+    "es-ES": "Bronzong",
+    "pt-BR": null
+  },
+  "bonsly": {
+    "en-US": "Bonsly",
+    "fr-FR": "Manzaï",
+    "es-ES": "Bonsly",
+    "pt-BR": null
+  },
+  "mime jr.": {
+    "en-US": "Mime Jr.",
+    "fr-FR": "Mime Jr.",
+    "es-ES": "Mime Jr.",
+    "pt-BR": null
+  },
+  "happiny": {
+    "en-US": "Happiny",
+    "fr-FR": "Ptiravi",
+    "es-ES": "Happiny",
+    "pt-BR": null
+  },
+  "chatot": {
+    "en-US": "Chatot",
+    "fr-FR": "Pijako",
+    "es-ES": "Chatot",
+    "pt-BR": null
+  },
+  "spiritomb": {
+    "en-US": "Spiritomb",
+    "fr-FR": "Spiritomb",
+    "es-ES": "Spiritomb",
+    "pt-BR": null
+  },
+  "gible": {
+    "en-US": "Gible",
+    "fr-FR": "Griknot",
+    "es-ES": "Gible",
+    "pt-BR": null
+  },
+  "gabite": {
+    "en-US": "Gabite",
+    "fr-FR": "Carmache",
+    "es-ES": "Gabite",
+    "pt-BR": null
+  },
+  "garchomp": {
+    "en-US": "Garchomp",
+    "fr-FR": "Carchacrok",
+    "es-ES": "Garchomp",
+    "pt-BR": null
+  },
+  "munchlax": {
+    "en-US": "Munchlax",
+    "fr-FR": "Goinfrex",
+    "es-ES": "Munchlax",
+    "pt-BR": null
+  },
+  "riolu": {
+    "en-US": "Riolu",
+    "fr-FR": "Riolu",
+    "es-ES": "Riolu",
+    "pt-BR": null
+  },
+  "lucario": {
+    "en-US": "Lucario",
+    "fr-FR": "Lucario",
+    "es-ES": "Lucario",
+    "pt-BR": null
+  },
+  "hippopotas": {
+    "en-US": "Hippopotas",
+    "fr-FR": "Hippopotas",
+    "es-ES": "Hippopotas",
+    "pt-BR": null
+  },
+  "hippowdon": {
+    "en-US": "Hippowdon",
+    "fr-FR": "Hippodocus",
+    "es-ES": "Hippowdon",
+    "pt-BR": null
+  },
+  "skorupi": {
+    "en-US": "Skorupi",
+    "fr-FR": "Rapion",
+    "es-ES": "Skorupi",
+    "pt-BR": null
+  },
+  "drapion": {
+    "en-US": "Drapion",
+    "fr-FR": "Drascore",
+    "es-ES": "Drapion",
+    "pt-BR": null
+  },
+  "croagunk": {
+    "en-US": "Croagunk",
+    "fr-FR": "Cradopaud",
+    "es-ES": "Croagunk",
+    "pt-BR": null
+  },
+  "toxicroak": {
+    "en-US": "Toxicroak",
+    "fr-FR": "Coatox",
+    "es-ES": "Toxicroak",
+    "pt-BR": null
+  },
+  "carnivine": {
+    "en-US": "Carnivine",
+    "fr-FR": "Vortente",
+    "es-ES": "Carnivine",
+    "pt-BR": null
+  },
+  "finneon": {
+    "en-US": "Finneon",
+    "fr-FR": "Écayon",
+    "es-ES": "Finneon",
+    "pt-BR": null
+  },
+  "lumineon": {
+    "en-US": "Lumineon",
+    "fr-FR": "Luminéon",
+    "es-ES": "Lumineon",
+    "pt-BR": null
+  },
+  "mantyke": {
+    "en-US": "Mantyke",
+    "fr-FR": "Babimanta",
+    "es-ES": "Mantyke",
+    "pt-BR": null
+  },
+  "snover": {
+    "en-US": "Snover",
+    "fr-FR": "Blizzi",
+    "es-ES": "Snover",
+    "pt-BR": null
+  },
+  "abomasnow": {
+    "en-US": "Abomasnow",
+    "fr-FR": "Blizzaroi",
+    "es-ES": "Abomasnow",
+    "pt-BR": null
+  },
+  "weavile": {
+    "en-US": "Weavile",
+    "fr-FR": "Dimoret",
+    "es-ES": "Weavile",
+    "pt-BR": null
+  },
+  "magnezone": {
+    "en-US": "Magnezone",
+    "fr-FR": "Magnézone",
+    "es-ES": "Magnezone",
+    "pt-BR": null
+  },
+  "lickilicky": {
+    "en-US": "Lickilicky",
+    "fr-FR": "Coudlangue",
+    "es-ES": "Lickilicky",
+    "pt-BR": null
+  },
+  "rhyperior": {
+    "en-US": "Rhyperior",
+    "fr-FR": "Rhinastoc",
+    "es-ES": "Rhyperior",
+    "pt-BR": null
+  },
+  "tangrowth": {
+    "en-US": "Tangrowth",
+    "fr-FR": "Bouldeneu",
+    "es-ES": "Tangrowth",
+    "pt-BR": null
+  },
+  "electivire": {
+    "en-US": "Electivire",
+    "fr-FR": "Élekable",
+    "es-ES": "Electivire",
+    "pt-BR": null
+  },
+  "magmortar": {
+    "en-US": "Magmortar",
+    "fr-FR": "Maganon",
+    "es-ES": "Magmortar",
+    "pt-BR": null
+  },
+  "togekiss": {
+    "en-US": "Togekiss",
+    "fr-FR": "Togekiss",
+    "es-ES": "Togekiss",
+    "pt-BR": null
+  },
+  "yanmega": {
+    "en-US": "Yanmega",
+    "fr-FR": "Yanmega",
+    "es-ES": "Yanmega",
+    "pt-BR": null
+  },
+  "leafeon": {
+    "en-US": "Leafeon",
+    "fr-FR": "Phyllali",
+    "es-ES": "Leafeon",
+    "pt-BR": null
+  },
+  "glaceon": {
+    "en-US": "Glaceon",
+    "fr-FR": "Givrali",
+    "es-ES": "Glaceon",
+    "pt-BR": null
+  },
+  "gliscor": {
+    "en-US": "Gliscor",
+    "fr-FR": "Scorvol",
+    "es-ES": "Gliscor",
+    "pt-BR": null
+  },
+  "mamoswine": {
+    "en-US": "Mamoswine",
+    "fr-FR": "Mammochon",
+    "es-ES": "Mamoswine",
+    "pt-BR": null
+  },
+  "porygon-z": {
+    "en-US": "Porygon-Z",
+    "fr-FR": "Porygon-Z",
+    "es-ES": "Porygon-Z",
+    "pt-BR": null
+  },
+  "gallade": {
+    "en-US": "Gallade",
+    "fr-FR": "Gallame",
+    "es-ES": "Gallade",
+    "pt-BR": null
+  },
+  "probopass": {
+    "en-US": "Probopass",
+    "fr-FR": "Tarinorme",
+    "es-ES": "Probopass",
+    "pt-BR": null
+  },
+  "dusknoir": {
+    "en-US": "Dusknoir",
+    "fr-FR": "Noctunoir",
+    "es-ES": "Dusknoir",
+    "pt-BR": null
+  },
+  "froslass": {
+    "en-US": "Froslass",
+    "fr-FR": "Momartik",
+    "es-ES": "Froslass",
+    "pt-BR": null
+  },
+  "rotom": {
+    "en-US": "Rotom",
+    "fr-FR": "Motisma",
+    "es-ES": "Rotom",
+    "pt-BR": null
+  },
+  "uxie": {
+    "en-US": "Uxie",
+    "fr-FR": "Créhelf",
+    "es-ES": "Uxie",
+    "pt-BR": null
+  },
+  "mesprit": {
+    "en-US": "Mesprit",
+    "fr-FR": "Créfollet",
+    "es-ES": "Mesprit",
+    "pt-BR": null
+  },
+  "azelf": {
+    "en-US": "Azelf",
+    "fr-FR": "Créfadet",
+    "es-ES": "Azelf",
+    "pt-BR": null
+  },
+  "dialga": {
+    "en-US": "Dialga",
+    "fr-FR": "Dialga",
+    "es-ES": "Dialga",
+    "pt-BR": null
+  },
+  "palkia": {
+    "en-US": "Palkia",
+    "fr-FR": "Palkia",
+    "es-ES": "Palkia",
+    "pt-BR": null
+  },
+  "heatran": {
+    "en-US": "Heatran",
+    "fr-FR": "Heatran",
+    "es-ES": "Heatran",
+    "pt-BR": null
+  },
+  "regigigas": {
+    "en-US": "Regigigas",
+    "fr-FR": "Regigigas",
+    "es-ES": "Regigigas",
+    "pt-BR": null
+  },
+  "giratina": {
+    "en-US": "Giratina",
+    "fr-FR": "Giratina",
+    "es-ES": "Giratina",
+    "pt-BR": null
+  },
+  "cresselia": {
+    "en-US": "Cresselia",
+    "fr-FR": "Cresselia",
+    "es-ES": "Cresselia",
+    "pt-BR": null
+  },
+  "phione": {
+    "en-US": "Phione",
+    "fr-FR": "Phione",
+    "es-ES": "Phione",
+    "pt-BR": null
+  },
+  "manaphy": {
+    "en-US": "Manaphy",
+    "fr-FR": "Manaphy",
+    "es-ES": "Manaphy",
+    "pt-BR": null
+  },
+  "darkrai": {
+    "en-US": "Darkrai",
+    "fr-FR": "Darkrai",
+    "es-ES": "Darkrai",
+    "pt-BR": null
+  },
+  "shaymin": {
+    "en-US": "Shaymin",
+    "fr-FR": "Shaymin",
+    "es-ES": "Shaymin",
+    "pt-BR": null
+  },
+  "arceus": {
+    "en-US": "Arceus",
+    "fr-FR": "Arceus",
+    "es-ES": "Arceus",
+    "pt-BR": null
+  },
+  "victini": {
+    "en-US": "Victini",
+    "fr-FR": "Victini",
+    "es-ES": "Victini",
+    "pt-BR": null
+  },
+  "snivy": {
+    "en-US": "Snivy",
+    "fr-FR": "Vipélierre",
+    "es-ES": "Snivy",
+    "pt-BR": null
+  },
+  "servine": {
+    "en-US": "Servine",
+    "fr-FR": "Lianaja",
+    "es-ES": "Servine",
+    "pt-BR": null
+  },
+  "serperior": {
+    "en-US": "Serperior",
+    "fr-FR": "Majaspic",
+    "es-ES": "Serperior",
+    "pt-BR": null
+  },
+  "tepig": {
+    "en-US": "Tepig",
+    "fr-FR": "Gruikui",
+    "es-ES": "Tepig",
+    "pt-BR": null
+  },
+  "pignite": {
+    "en-US": "Pignite",
+    "fr-FR": "Grotichon",
+    "es-ES": "Pignite",
+    "pt-BR": null
+  },
+  "emboar": {
+    "en-US": "Emboar",
+    "fr-FR": "Roitiflam",
+    "es-ES": "Emboar",
+    "pt-BR": null
+  },
+  "oshawott": {
+    "en-US": "Oshawott",
+    "fr-FR": "Moustillon",
+    "es-ES": "Oshawott",
+    "pt-BR": null
+  },
+  "dewott": {
+    "en-US": "Dewott",
+    "fr-FR": "Mateloutre",
+    "es-ES": "Dewott",
+    "pt-BR": null
+  },
+  "samurott": {
+    "en-US": "Samurott",
+    "fr-FR": "Clamiral",
+    "es-ES": "Samurott",
+    "pt-BR": null
+  },
+  "patrat": {
+    "en-US": "Patrat",
+    "fr-FR": "Ratentif",
+    "es-ES": "Patrat",
+    "pt-BR": null
+  },
+  "watchog": {
+    "en-US": "Watchog",
+    "fr-FR": "Miradar",
+    "es-ES": "Watchog",
+    "pt-BR": null
+  },
+  "lillipup": {
+    "en-US": "Lillipup",
+    "fr-FR": "Ponchiot",
+    "es-ES": "Lillipup",
+    "pt-BR": null
+  },
+  "herdier": {
+    "en-US": "Herdier",
+    "fr-FR": "Ponchien",
+    "es-ES": "Herdier",
+    "pt-BR": null
+  },
+  "stoutland": {
+    "en-US": "Stoutland",
+    "fr-FR": "Mastouffe",
+    "es-ES": "Stoutland",
+    "pt-BR": null
+  },
+  "purrloin": {
+    "en-US": "Purrloin",
+    "fr-FR": "Chacripan",
+    "es-ES": "Purrloin",
+    "pt-BR": null
+  },
+  "liepard": {
+    "en-US": "Liepard",
+    "fr-FR": "Léopardus",
+    "es-ES": "Liepard",
+    "pt-BR": null
+  },
+  "pansage": {
+    "en-US": "Pansage",
+    "fr-FR": "Feuillajou",
+    "es-ES": "Pansage",
+    "pt-BR": null
+  },
+  "simisage": {
+    "en-US": "Simisage",
+    "fr-FR": "Feuiloutan",
+    "es-ES": "Simisage",
+    "pt-BR": null
+  },
+  "pansear": {
+    "en-US": "Pansear",
+    "fr-FR": "Flamajou",
+    "es-ES": "Pansear",
+    "pt-BR": null
+  },
+  "simisear": {
+    "en-US": "Simisear",
+    "fr-FR": "Flamoutan",
+    "es-ES": "Simisear",
+    "pt-BR": null
+  },
+  "panpour": {
+    "en-US": "Panpour",
+    "fr-FR": "Flotajou",
+    "es-ES": "Panpour",
+    "pt-BR": null
+  },
+  "simipour": {
+    "en-US": "Simipour",
+    "fr-FR": "Flotoutan",
+    "es-ES": "Simipour",
+    "pt-BR": null
+  },
+  "munna": {
+    "en-US": "Munna",
+    "fr-FR": "Munna",
+    "es-ES": "Munna",
+    "pt-BR": null
+  },
+  "musharna": {
+    "en-US": "Musharna",
+    "fr-FR": "Mushana",
+    "es-ES": "Musharna",
+    "pt-BR": null
+  },
+  "pidove": {
+    "en-US": "Pidove",
+    "fr-FR": "Poichigeon",
+    "es-ES": "Pidove",
+    "pt-BR": null
+  },
+  "tranquill": {
+    "en-US": "Tranquill",
+    "fr-FR": "Colombeau",
+    "es-ES": "Tranquill",
+    "pt-BR": null
+  },
+  "unfezant": {
+    "en-US": "Unfezant",
+    "fr-FR": "Déflaisan",
+    "es-ES": "Unfezant",
+    "pt-BR": null
+  },
+  "blitzle": {
+    "en-US": "Blitzle",
+    "fr-FR": "Zébibron",
+    "es-ES": "Blitzle",
+    "pt-BR": null
+  },
+  "zebstrika": {
+    "en-US": "Zebstrika",
+    "fr-FR": "Zéblitz",
+    "es-ES": "Zebstrika",
+    "pt-BR": null
+  },
+  "roggenrola": {
+    "en-US": "Roggenrola",
+    "fr-FR": "Nodulithe",
+    "es-ES": "Roggenrola",
+    "pt-BR": null
+  },
+  "boldore": {
+    "en-US": "Boldore",
+    "fr-FR": "Géolithe",
+    "es-ES": "Boldore",
+    "pt-BR": null
+  },
+  "gigalith": {
+    "en-US": "Gigalith",
+    "fr-FR": "Gigalithe",
+    "es-ES": "Gigalith",
+    "pt-BR": null
+  },
+  "woobat": {
+    "en-US": "Woobat",
+    "fr-FR": "Chovsourir",
+    "es-ES": "Woobat",
+    "pt-BR": null
+  },
+  "swoobat": {
+    "en-US": "Swoobat",
+    "fr-FR": "Rhinolove",
+    "es-ES": "Swoobat",
+    "pt-BR": null
+  },
+  "drilbur": {
+    "en-US": "Drilbur",
+    "fr-FR": "Rototaupe",
+    "es-ES": "Drilbur",
+    "pt-BR": null
+  },
+  "excadrill": {
+    "en-US": "Excadrill",
+    "fr-FR": "Minotaupe",
+    "es-ES": "Excadrill",
+    "pt-BR": null
+  },
+  "audino": {
+    "en-US": "Audino",
+    "fr-FR": "Nanméouïe",
+    "es-ES": "Audino",
+    "pt-BR": null
+  },
+  "timburr": {
+    "en-US": "Timburr",
+    "fr-FR": "Charpenti",
+    "es-ES": "Timburr",
+    "pt-BR": null
+  },
+  "gurdurr": {
+    "en-US": "Gurdurr",
+    "fr-FR": "Ouvrifier",
+    "es-ES": "Gurdurr",
+    "pt-BR": null
+  },
+  "conkeldurr": {
+    "en-US": "Conkeldurr",
+    "fr-FR": "Bétochef",
+    "es-ES": "Conkeldurr",
+    "pt-BR": null
+  },
+  "tympole": {
+    "en-US": "Tympole",
+    "fr-FR": "Tritonde",
+    "es-ES": "Tympole",
+    "pt-BR": null
+  },
+  "palpitoad": {
+    "en-US": "Palpitoad",
+    "fr-FR": "Batracné",
+    "es-ES": "Palpitoad",
+    "pt-BR": null
+  },
+  "seismitoad": {
+    "en-US": "Seismitoad",
+    "fr-FR": "Crapustule",
+    "es-ES": "Seismitoad",
+    "pt-BR": null
+  },
+  "throh": {
+    "en-US": "Throh",
+    "fr-FR": "Judokrak",
+    "es-ES": "Throh",
+    "pt-BR": null
+  },
+  "sawk": {
+    "en-US": "Sawk",
+    "fr-FR": "Karaclée",
+    "es-ES": "Sawk",
+    "pt-BR": null
+  },
+  "sewaddle": {
+    "en-US": "Sewaddle",
+    "fr-FR": "Larveyette",
+    "es-ES": "Sewaddle",
+    "pt-BR": null
+  },
+  "swadloon": {
+    "en-US": "Swadloon",
+    "fr-FR": "Couverdure",
+    "es-ES": "Swadloon",
+    "pt-BR": null
+  },
+  "leavanny": {
+    "en-US": "Leavanny",
+    "fr-FR": "Manternel",
+    "es-ES": "Leavanny",
+    "pt-BR": null
+  },
+  "venipede": {
+    "en-US": "Venipede",
+    "fr-FR": "Venipatte",
+    "es-ES": "Venipede",
+    "pt-BR": null
+  },
+  "whirlipede": {
+    "en-US": "Whirlipede",
+    "fr-FR": "Scobolide",
+    "es-ES": "Whirlipede",
+    "pt-BR": null
+  },
+  "scolipede": {
+    "en-US": "Scolipede",
+    "fr-FR": "Brutapode",
+    "es-ES": "Scolipede",
+    "pt-BR": null
+  },
+  "cottonee": {
+    "en-US": "Cottonee",
+    "fr-FR": "Doudouvet",
+    "es-ES": "Cottonee",
+    "pt-BR": null
+  },
+  "whimsicott": {
+    "en-US": "Whimsicott",
+    "fr-FR": "Farfaduvet",
+    "es-ES": "Whimsicott",
+    "pt-BR": null
+  },
+  "petilil": {
+    "en-US": "Petilil",
+    "fr-FR": "Chlorobule",
+    "es-ES": "Petilil",
+    "pt-BR": null
+  },
+  "lilligant": {
+    "en-US": "Lilligant",
+    "fr-FR": "Fragilady",
+    "es-ES": "Lilligant",
+    "pt-BR": null
+  },
+  "basculin": {
+    "en-US": "Basculin",
+    "fr-FR": "Bargantua",
+    "es-ES": "Basculin",
+    "pt-BR": null
+  },
+  "sandile": {
+    "en-US": "Sandile",
+    "fr-FR": "Mascaïman",
+    "es-ES": "Sandile",
+    "pt-BR": null
+  },
+  "krokorok": {
+    "en-US": "Krokorok",
+    "fr-FR": "Escroco",
+    "es-ES": "Krokorok",
+    "pt-BR": null
+  },
+  "krookodile": {
+    "en-US": "Krookodile",
+    "fr-FR": "Crocorible",
+    "es-ES": "Krookodile",
+    "pt-BR": null
+  },
+  "darumaka": {
+    "en-US": "Darumaka",
+    "fr-FR": "Darumarond",
+    "es-ES": "Darumaka",
+    "pt-BR": null
+  },
+  "darmanitan": {
+    "en-US": "Darmanitan",
+    "fr-FR": "Darumacho",
+    "es-ES": "Darmanitan",
+    "pt-BR": null
+  },
+  "maractus": {
+    "en-US": "Maractus",
+    "fr-FR": "Maracachi",
+    "es-ES": "Maractus",
+    "pt-BR": null
+  },
+  "dwebble": {
+    "en-US": "Dwebble",
+    "fr-FR": "Crabicoque",
+    "es-ES": "Dwebble",
+    "pt-BR": null
+  },
+  "crustle": {
+    "en-US": "Crustle",
+    "fr-FR": "Crabaraque",
+    "es-ES": "Crustle",
+    "pt-BR": null
+  },
+  "scraggy": {
+    "en-US": "Scraggy",
+    "fr-FR": "Baggiguane",
+    "es-ES": "Scraggy",
+    "pt-BR": null
+  },
+  "scrafty": {
+    "en-US": "Scrafty",
+    "fr-FR": "Baggaïd",
+    "es-ES": "Scrafty",
+    "pt-BR": null
+  },
+  "sigilyph": {
+    "en-US": "Sigilyph",
+    "fr-FR": "Cryptéro",
+    "es-ES": "Sigilyph",
+    "pt-BR": null
+  },
+  "yamask": {
+    "en-US": "Yamask",
+    "fr-FR": "Tutafeh",
+    "es-ES": "Yamask",
+    "pt-BR": null
+  },
+  "cofagrigus": {
+    "en-US": "Cofagrigus",
+    "fr-FR": "Tutankafer",
+    "es-ES": "Cofagrigus",
+    "pt-BR": null
+  },
+  "tirtouga": {
+    "en-US": "Tirtouga",
+    "fr-FR": "Carapagos",
+    "es-ES": "Tirtouga",
+    "pt-BR": null
+  },
+  "carracosta": {
+    "en-US": "Carracosta",
+    "fr-FR": "Mégapagos",
+    "es-ES": "Carracosta",
+    "pt-BR": null
+  },
+  "archen": {
+    "en-US": "Archen",
+    "fr-FR": "Arkéapti",
+    "es-ES": "Archen",
+    "pt-BR": null
+  },
+  "archeops": {
+    "en-US": "Archeops",
+    "fr-FR": "Aéroptéryx",
+    "es-ES": "Archeops",
+    "pt-BR": null
+  },
+  "trubbish": {
+    "en-US": "Trubbish",
+    "fr-FR": "Miamiasme",
+    "es-ES": "Trubbish",
+    "pt-BR": null
+  },
+  "garbodor": {
+    "en-US": "Garbodor",
+    "fr-FR": "Miasmax",
+    "es-ES": "Garbodor",
+    "pt-BR": null
+  },
+  "zorua": {
+    "en-US": "Zorua",
+    "fr-FR": "Zorua",
+    "es-ES": "Zorua",
+    "pt-BR": null
+  },
+  "zoroark": {
+    "en-US": "Zoroark",
+    "fr-FR": "Zoroark",
+    "es-ES": "Zoroark",
+    "pt-BR": null
+  },
+  "minccino": {
+    "en-US": "Minccino",
+    "fr-FR": "Chinchidou",
+    "es-ES": "Minccino",
+    "pt-BR": null
+  },
+  "cinccino": {
+    "en-US": "Cinccino",
+    "fr-FR": "Pashmilla",
+    "es-ES": "Cinccino",
+    "pt-BR": null
+  },
+  "gothita": {
+    "en-US": "Gothita",
+    "fr-FR": "Scrutella",
+    "es-ES": "Gothita",
+    "pt-BR": null
+  },
+  "gothorita": {
+    "en-US": "Gothorita",
+    "fr-FR": "Mesmérella",
+    "es-ES": "Gothorita",
+    "pt-BR": null
+  },
+  "gothitelle": {
+    "en-US": "Gothitelle",
+    "fr-FR": "Sidérella",
+    "es-ES": "Gothitelle",
+    "pt-BR": null
+  },
+  "solosis": {
+    "en-US": "Solosis",
+    "fr-FR": "Nucléos",
+    "es-ES": "Solosis",
+    "pt-BR": null
+  },
+  "duosion": {
+    "en-US": "Duosion",
+    "fr-FR": "Méios",
+    "es-ES": "Duosion",
+    "pt-BR": null
+  },
+  "reuniclus": {
+    "en-US": "Reuniclus",
+    "fr-FR": "Symbios",
+    "es-ES": "Reuniclus",
+    "pt-BR": null
+  },
+  "ducklett": {
+    "en-US": "Ducklett",
+    "fr-FR": "Couaneton",
+    "es-ES": "Ducklett",
+    "pt-BR": null
+  },
+  "swanna": {
+    "en-US": "Swanna",
+    "fr-FR": "Lakmécygne",
+    "es-ES": "Swanna",
+    "pt-BR": null
+  },
+  "vanillite": {
+    "en-US": "Vanillite",
+    "fr-FR": "Sorbébé",
+    "es-ES": "Vanillite",
+    "pt-BR": null
+  },
+  "vanillish": {
+    "en-US": "Vanillish",
+    "fr-FR": "Sorboul",
+    "es-ES": "Vanillish",
+    "pt-BR": null
+  },
+  "vanilluxe": {
+    "en-US": "Vanilluxe",
+    "fr-FR": "Sorbouboul",
+    "es-ES": "Vanilluxe",
+    "pt-BR": null
+  },
+  "deerling": {
+    "en-US": "Deerling",
+    "fr-FR": "Vivaldaim",
+    "es-ES": "Deerling",
+    "pt-BR": null
+  },
+  "sawsbuck": {
+    "en-US": "Sawsbuck",
+    "fr-FR": "Haydaim",
+    "es-ES": "Sawsbuck",
+    "pt-BR": null
+  },
+  "emolga": {
+    "en-US": "Emolga",
+    "fr-FR": "Emolga",
+    "es-ES": "Emolga",
+    "pt-BR": null
+  },
+  "karrablast": {
+    "en-US": "Karrablast",
+    "fr-FR": "Carabing",
+    "es-ES": "Karrablast",
+    "pt-BR": null
+  },
+  "escavalier": {
+    "en-US": "Escavalier",
+    "fr-FR": "Lançargot",
+    "es-ES": "Escavalier",
+    "pt-BR": null
+  },
+  "foongus": {
+    "en-US": "Foongus",
+    "fr-FR": "Trompignon",
+    "es-ES": "Foongus",
+    "pt-BR": null
+  },
+  "amoonguss": {
+    "en-US": "Amoonguss",
+    "fr-FR": "Gaulet",
+    "es-ES": "Amoonguss",
+    "pt-BR": null
+  },
+  "frillish": {
+    "en-US": "Frillish",
+    "fr-FR": "Viskuse",
+    "es-ES": "Frillish",
+    "pt-BR": null
+  },
+  "jellicent": {
+    "en-US": "Jellicent",
+    "fr-FR": "Moyade",
+    "es-ES": "Jellicent",
+    "pt-BR": null
+  },
+  "alomomola": {
+    "en-US": "Alomomola",
+    "fr-FR": "Mamanbo",
+    "es-ES": "Alomomola",
+    "pt-BR": null
+  },
+  "joltik": {
+    "en-US": "Joltik",
+    "fr-FR": "Statitik",
+    "es-ES": "Joltik",
+    "pt-BR": null
+  },
+  "galvantula": {
+    "en-US": "Galvantula",
+    "fr-FR": "Mygavolt",
+    "es-ES": "Galvantula",
+    "pt-BR": null
+  },
+  "ferroseed": {
+    "en-US": "Ferroseed",
+    "fr-FR": "Grindur",
+    "es-ES": "Ferroseed",
+    "pt-BR": null
+  },
+  "ferrothorn": {
+    "en-US": "Ferrothorn",
+    "fr-FR": "Noacier",
+    "es-ES": "Ferrothorn",
+    "pt-BR": null
+  },
+  "klink": {
+    "en-US": "Klink",
+    "fr-FR": "Tic",
+    "es-ES": "Klink",
+    "pt-BR": null
+  },
+  "klang": {
+    "en-US": "Klang",
+    "fr-FR": "Clic",
+    "es-ES": "Klang",
+    "pt-BR": null
+  },
+  "klinklang": {
+    "en-US": "Klinklang",
+    "fr-FR": "Cliticlic",
+    "es-ES": "Klinklang",
+    "pt-BR": null
+  },
+  "tynamo": {
+    "en-US": "Tynamo",
+    "fr-FR": "Anchwatt",
+    "es-ES": "Tynamo",
+    "pt-BR": null
+  },
+  "eelektrik": {
+    "en-US": "Eelektrik",
+    "fr-FR": "Lampéroie",
+    "es-ES": "Eelektrik",
+    "pt-BR": null
+  },
+  "eelektross": {
+    "en-US": "Eelektross",
+    "fr-FR": "Ohmassacre",
+    "es-ES": "Eelektross",
+    "pt-BR": null
+  },
+  "elgyem": {
+    "en-US": "Elgyem",
+    "fr-FR": "Lewsor",
+    "es-ES": "Elgyem",
+    "pt-BR": null
+  },
+  "beheeyem": {
+    "en-US": "Beheeyem",
+    "fr-FR": "Neitram",
+    "es-ES": "Beheeyem",
+    "pt-BR": null
+  },
+  "litwick": {
+    "en-US": "Litwick",
+    "fr-FR": "Funécire",
+    "es-ES": "Litwick",
+    "pt-BR": null
+  },
+  "lampent": {
+    "en-US": "Lampent",
+    "fr-FR": "Mélancolux",
+    "es-ES": "Lampent",
+    "pt-BR": null
+  },
+  "chandelure": {
+    "en-US": "Chandelure",
+    "fr-FR": "Lugulabre",
+    "es-ES": "Chandelure",
+    "pt-BR": null
+  },
+  "axew": {
+    "en-US": "Axew",
+    "fr-FR": "Coupenotte",
+    "es-ES": "Axew",
+    "pt-BR": null
+  },
+  "fraxure": {
+    "en-US": "Fraxure",
+    "fr-FR": "Incisache",
+    "es-ES": "Fraxure",
+    "pt-BR": null
+  },
+  "haxorus": {
+    "en-US": "Haxorus",
+    "fr-FR": "Tranchodon",
+    "es-ES": "Haxorus",
+    "pt-BR": null
+  },
+  "cubchoo": {
+    "en-US": "Cubchoo",
+    "fr-FR": "Polarhume",
+    "es-ES": "Cubchoo",
+    "pt-BR": null
+  },
+  "beartic": {
+    "en-US": "Beartic",
+    "fr-FR": "Polagriffe",
+    "es-ES": "Beartic",
+    "pt-BR": null
+  },
+  "cryogonal": {
+    "en-US": "Cryogonal",
+    "fr-FR": "Hexagel",
+    "es-ES": "Cryogonal",
+    "pt-BR": null
+  },
+  "shelmet": {
+    "en-US": "Shelmet",
+    "fr-FR": "Escargaume",
+    "es-ES": "Shelmet",
+    "pt-BR": null
+  },
+  "accelgor": {
+    "en-US": "Accelgor",
+    "fr-FR": "Limaspeed",
+    "es-ES": "Accelgor",
+    "pt-BR": null
+  },
+  "stunfisk": {
+    "en-US": "Stunfisk",
+    "fr-FR": "Limonde",
+    "es-ES": "Stunfisk",
+    "pt-BR": null
+  },
+  "mienfoo": {
+    "en-US": "Mienfoo",
+    "fr-FR": "Kungfouine",
+    "es-ES": "Mienfoo",
+    "pt-BR": null
+  },
+  "mienshao": {
+    "en-US": "Mienshao",
+    "fr-FR": "Shaofouine",
+    "es-ES": "Mienshao",
+    "pt-BR": null
+  },
+  "druddigon": {
+    "en-US": "Druddigon",
+    "fr-FR": "Drakkarmin",
+    "es-ES": "Druddigon",
+    "pt-BR": null
+  },
+  "golett": {
+    "en-US": "Golett",
+    "fr-FR": "Gringolem",
+    "es-ES": "Golett",
+    "pt-BR": null
+  },
+  "golurk": {
+    "en-US": "Golurk",
+    "fr-FR": "Golemastoc",
+    "es-ES": "Golurk",
+    "pt-BR": null
+  },
+  "pawniard": {
+    "en-US": "Pawniard",
+    "fr-FR": "Scalpion",
+    "es-ES": "Pawniard",
+    "pt-BR": null
+  },
+  "bisharp": {
+    "en-US": "Bisharp",
+    "fr-FR": "Scalproie",
+    "es-ES": "Bisharp",
+    "pt-BR": null
+  },
+  "bouffalant": {
+    "en-US": "Bouffalant",
+    "fr-FR": "Frison",
+    "es-ES": "Bouffalant",
+    "pt-BR": null
+  },
+  "rufflet": {
+    "en-US": "Rufflet",
+    "fr-FR": "Furaiglon",
+    "es-ES": "Rufflet",
+    "pt-BR": null
+  },
+  "braviary": {
+    "en-US": "Braviary",
+    "fr-FR": "Gueriaigle",
+    "es-ES": "Braviary",
+    "pt-BR": null
+  },
+  "vullaby": {
+    "en-US": "Vullaby",
+    "fr-FR": "Vostourno",
+    "es-ES": "Vullaby",
+    "pt-BR": null
+  },
+  "mandibuzz": {
+    "en-US": "Mandibuzz",
+    "fr-FR": "Vaututrice",
+    "es-ES": "Mandibuzz",
+    "pt-BR": null
+  },
+  "heatmor": {
+    "en-US": "Heatmor",
+    "fr-FR": "Aflamanoir",
+    "es-ES": "Heatmor",
+    "pt-BR": null
+  },
+  "durant": {
+    "en-US": "Durant",
+    "fr-FR": "Fermite",
+    "es-ES": "Durant",
+    "pt-BR": null
+  },
+  "deino": {
+    "en-US": "Deino",
+    "fr-FR": "Solochi",
+    "es-ES": "Deino",
+    "pt-BR": null
+  },
+  "zweilous": {
+    "en-US": "Zweilous",
+    "fr-FR": "Diamat",
+    "es-ES": "Zweilous",
+    "pt-BR": null
+  },
+  "hydreigon": {
+    "en-US": "Hydreigon",
+    "fr-FR": "Trioxhydre",
+    "es-ES": "Hydreigon",
+    "pt-BR": null
+  },
+  "larvesta": {
+    "en-US": "Larvesta",
+    "fr-FR": "Pyronille",
+    "es-ES": "Larvesta",
+    "pt-BR": null
+  },
+  "volcarona": {
+    "en-US": "Volcarona",
+    "fr-FR": "Pyrax",
+    "es-ES": "Volcarona",
+    "pt-BR": null
+  },
+  "cobalion": {
+    "en-US": "Cobalion",
+    "fr-FR": "Cobaltium",
+    "es-ES": "Cobalion",
+    "pt-BR": null
+  },
+  "terrakion": {
+    "en-US": "Terrakion",
+    "fr-FR": "Terrakium",
+    "es-ES": "Terrakion",
+    "pt-BR": null
+  },
+  "virizion": {
+    "en-US": "Virizion",
+    "fr-FR": "Viridium",
+    "es-ES": "Virizion",
+    "pt-BR": null
+  },
+  "tornadus": {
+    "en-US": "Tornadus",
+    "fr-FR": "Boréas",
+    "es-ES": "Tornadus",
+    "pt-BR": null
+  },
+  "thundurus": {
+    "en-US": "Thundurus",
+    "fr-FR": "Fulguris",
+    "es-ES": "Thundurus",
+    "pt-BR": null
+  },
+  "reshiram": {
+    "en-US": "Reshiram",
+    "fr-FR": "Reshiram",
+    "es-ES": "Reshiram",
+    "pt-BR": null
+  },
+  "zekrom": {
+    "en-US": "Zekrom",
+    "fr-FR": "Zekrom",
+    "es-ES": "Zekrom",
+    "pt-BR": null
+  },
+  "landorus": {
+    "en-US": "Landorus",
+    "fr-FR": "Démétéros",
+    "es-ES": "Landorus",
+    "pt-BR": null
+  },
+  "kyurem": {
+    "en-US": "Kyurem",
+    "fr-FR": "Kyurem",
+    "es-ES": "Kyurem",
+    "pt-BR": null
+  },
+  "keldeo": {
+    "en-US": "Keldeo",
+    "fr-FR": "Keldeo",
+    "es-ES": "Keldeo",
+    "pt-BR": null
+  },
+  "meloetta": {
+    "en-US": "Meloetta",
+    "fr-FR": "Meloetta",
+    "es-ES": "Meloetta",
+    "pt-BR": null
+  },
+  "genesect": {
+    "en-US": "Genesect",
+    "fr-FR": "Genesect",
+    "es-ES": "Genesect",
+    "pt-BR": null
+  },
+  "chespin": {
+    "en-US": "Chespin",
+    "fr-FR": "Marisson",
+    "es-ES": "Chespin",
+    "pt-BR": null
+  },
+  "quilladin": {
+    "en-US": "Quilladin",
+    "fr-FR": "Boguérisse",
+    "es-ES": "Quilladin",
+    "pt-BR": null
+  },
+  "chesnaught": {
+    "en-US": "Chesnaught",
+    "fr-FR": "Blindépique",
+    "es-ES": "Chesnaught",
+    "pt-BR": null
+  },
+  "fennekin": {
+    "en-US": "Fennekin",
+    "fr-FR": "Feunnec",
+    "es-ES": "Fennekin",
+    "pt-BR": null
+  },
+  "braixen": {
+    "en-US": "Braixen",
+    "fr-FR": "Roussil",
+    "es-ES": "Braixen",
+    "pt-BR": null
+  },
+  "delphox": {
+    "en-US": "Delphox",
+    "fr-FR": "Goupelin",
+    "es-ES": "Delphox",
+    "pt-BR": null
+  },
+  "froakie": {
+    "en-US": "Froakie",
+    "fr-FR": "Grenousse",
+    "es-ES": "Froakie",
+    "pt-BR": null
+  },
+  "frogadier": {
+    "en-US": "Frogadier",
+    "fr-FR": "Croâporal",
+    "es-ES": "Frogadier",
+    "pt-BR": null
+  },
+  "greninja": {
+    "en-US": "Greninja",
+    "fr-FR": "Amphinobi",
+    "es-ES": "Greninja",
+    "pt-BR": null
+  },
+  "bunnelby": {
+    "en-US": "Bunnelby",
+    "fr-FR": "Sapereau",
+    "es-ES": "Bunnelby",
+    "pt-BR": null
+  },
+  "diggersby": {
+    "en-US": "Diggersby",
+    "fr-FR": "Excavarenne",
+    "es-ES": "Diggersby",
+    "pt-BR": null
+  },
+  "fletchling": {
+    "en-US": "Fletchling",
+    "fr-FR": "Passerouge",
+    "es-ES": "Fletchling",
+    "pt-BR": null
+  },
+  "fletchinder": {
+    "en-US": "Fletchinder",
+    "fr-FR": "Braisillon",
+    "es-ES": "Fletchinder",
+    "pt-BR": null
+  },
+  "talonflame": {
+    "en-US": "Talonflame",
+    "fr-FR": "Flambusard",
+    "es-ES": "Talonflame",
+    "pt-BR": null
+  },
+  "scatterbug": {
+    "en-US": "Scatterbug",
+    "fr-FR": "Lépidonille",
+    "es-ES": "Scatterbug",
+    "pt-BR": null
+  },
+  "spewpa": {
+    "en-US": "Spewpa",
+    "fr-FR": "Pérégrain",
+    "es-ES": "Spewpa",
+    "pt-BR": null
+  },
+  "vivillon": {
+    "en-US": "Vivillon",
+    "fr-FR": "Prismillon",
+    "es-ES": "Vivillon",
+    "pt-BR": null
+  },
+  "litleo": {
+    "en-US": "Litleo",
+    "fr-FR": "Hélionceau",
+    "es-ES": "Litleo",
+    "pt-BR": null
+  },
+  "pyroar": {
+    "en-US": "Pyroar",
+    "fr-FR": "Némélios",
+    "es-ES": "Pyroar",
+    "pt-BR": null
+  },
+  "flabébé": {
+    "en-US": "Flabébé",
+    "fr-FR": "Flabébé",
+    "es-ES": "Flabébé",
+    "pt-BR": null
+  },
+  "floette": {
+    "en-US": "Floette",
+    "fr-FR": "Floette",
+    "es-ES": "Floette",
+    "pt-BR": null
+  },
+  "florges": {
+    "en-US": "Florges",
+    "fr-FR": "Florges",
+    "es-ES": "Florges",
+    "pt-BR": null
+  },
+  "skiddo": {
+    "en-US": "Skiddo",
+    "fr-FR": "Cabriolaine",
+    "es-ES": "Skiddo",
+    "pt-BR": null
+  },
+  "gogoat": {
+    "en-US": "Gogoat",
+    "fr-FR": "Chevroum",
+    "es-ES": "Gogoat",
+    "pt-BR": null
+  },
+  "pancham": {
+    "en-US": "Pancham",
+    "fr-FR": "Pandespiègle",
+    "es-ES": "Pancham",
+    "pt-BR": null
+  },
+  "pangoro": {
+    "en-US": "Pangoro",
+    "fr-FR": "Pandarbare",
+    "es-ES": "Pangoro",
+    "pt-BR": null
+  },
+  "furfrou": {
+    "en-US": "Furfrou",
+    "fr-FR": "Couafarel",
+    "es-ES": "Furfrou",
+    "pt-BR": null
+  },
+  "espurr": {
+    "en-US": "Espurr",
+    "fr-FR": "Psystigri",
+    "es-ES": "Espurr",
+    "pt-BR": null
+  },
+  "meowstic": {
+    "en-US": "Meowstic",
+    "fr-FR": "Mistigrix",
+    "es-ES": "Meowstic",
+    "pt-BR": null
+  },
+  "honedge": {
+    "en-US": "Honedge",
+    "fr-FR": "Monorpale",
+    "es-ES": "Honedge",
+    "pt-BR": null
+  },
+  "doublade": {
+    "en-US": "Doublade",
+    "fr-FR": "Dimoclès",
+    "es-ES": "Doublade",
+    "pt-BR": null
+  },
+  "aegislash": {
+    "en-US": "Aegislash",
+    "fr-FR": "Exagide",
+    "es-ES": "Aegislash",
+    "pt-BR": null
+  },
+  "spritzee": {
+    "en-US": "Spritzee",
+    "fr-FR": "Fluvetin",
+    "es-ES": "Spritzee",
+    "pt-BR": null
+  },
+  "aromatisse": {
+    "en-US": "Aromatisse",
+    "fr-FR": "Cocotine",
+    "es-ES": "Aromatisse",
+    "pt-BR": null
+  },
+  "swirlix": {
+    "en-US": "Swirlix",
+    "fr-FR": "Sucroquin",
+    "es-ES": "Swirlix",
+    "pt-BR": null
+  },
+  "slurpuff": {
+    "en-US": "Slurpuff",
+    "fr-FR": "Cupcanaille",
+    "es-ES": "Slurpuff",
+    "pt-BR": null
+  },
+  "inkay": {
+    "en-US": "Inkay",
+    "fr-FR": "Sepiatop",
+    "es-ES": "Inkay",
+    "pt-BR": null
+  },
+  "malamar": {
+    "en-US": "Malamar",
+    "fr-FR": "Sepiatroce",
+    "es-ES": "Malamar",
+    "pt-BR": null
+  },
+  "binacle": {
+    "en-US": "Binacle",
+    "fr-FR": "Opermine",
+    "es-ES": "Binacle",
+    "pt-BR": null
+  },
+  "barbaracle": {
+    "en-US": "Barbaracle",
+    "fr-FR": "Golgopathe",
+    "es-ES": "Barbaracle",
+    "pt-BR": null
+  },
+  "skrelp": {
+    "en-US": "Skrelp",
+    "fr-FR": "Venalgue",
+    "es-ES": "Skrelp",
+    "pt-BR": null
+  },
+  "dragalge": {
+    "en-US": "Dragalge",
+    "fr-FR": "Kravarech",
+    "es-ES": "Dragalge",
+    "pt-BR": null
+  },
+  "clauncher": {
+    "en-US": "Clauncher",
+    "fr-FR": "Flingouste",
+    "es-ES": "Clauncher",
+    "pt-BR": null
+  },
+  "clawitzer": {
+    "en-US": "Clawitzer",
+    "fr-FR": "Gamblast",
+    "es-ES": "Clawitzer",
+    "pt-BR": null
+  },
+  "helioptile": {
+    "en-US": "Helioptile",
+    "fr-FR": "Galvaran",
+    "es-ES": "Helioptile",
+    "pt-BR": null
+  },
+  "heliolisk": {
+    "en-US": "Heliolisk",
+    "fr-FR": "Iguolta",
+    "es-ES": "Heliolisk",
+    "pt-BR": null
+  },
+  "tyrunt": {
+    "en-US": "Tyrunt",
+    "fr-FR": "Ptyranidur",
+    "es-ES": "Tyrunt",
+    "pt-BR": null
+  },
+  "tyrantrum": {
+    "en-US": "Tyrantrum",
+    "fr-FR": "Rexillius",
+    "es-ES": "Tyrantrum",
+    "pt-BR": null
+  },
+  "amaura": {
+    "en-US": "Amaura",
+    "fr-FR": "Amagara",
+    "es-ES": "Amaura",
+    "pt-BR": null
+  },
+  "aurorus": {
+    "en-US": "Aurorus",
+    "fr-FR": "Dragmara",
+    "es-ES": "Aurorus",
+    "pt-BR": null
+  },
+  "sylveon": {
+    "en-US": "Sylveon",
+    "fr-FR": "Nymphali",
+    "es-ES": "Sylveon",
+    "pt-BR": null
+  },
+  "hawlucha": {
+    "en-US": "Hawlucha",
+    "fr-FR": "Brutalibré",
+    "es-ES": "Hawlucha",
+    "pt-BR": null
+  },
+  "dedenne": {
+    "en-US": "Dedenne",
+    "fr-FR": "Dedenne",
+    "es-ES": "Dedenne",
+    "pt-BR": null
+  },
+  "carbink": {
+    "en-US": "Carbink",
+    "fr-FR": "Strassie",
+    "es-ES": "Carbink",
+    "pt-BR": null
+  },
+  "goomy": {
+    "en-US": "Goomy",
+    "fr-FR": "Mucuscule",
+    "es-ES": "Goomy",
+    "pt-BR": null
+  },
+  "sliggoo": {
+    "en-US": "Sliggoo",
+    "fr-FR": "Colimucus",
+    "es-ES": "Sliggoo",
+    "pt-BR": null
+  },
+  "goodra": {
+    "en-US": "Goodra",
+    "fr-FR": "Muplodocus",
+    "es-ES": "Goodra",
+    "pt-BR": null
+  },
+  "klefki": {
+    "en-US": "Klefki",
+    "fr-FR": "Trousselin",
+    "es-ES": "Klefki",
+    "pt-BR": null
+  },
+  "phantump": {
+    "en-US": "Phantump",
+    "fr-FR": "Brocélôme",
+    "es-ES": "Phantump",
+    "pt-BR": null
+  },
+  "trevenant": {
+    "en-US": "Trevenant",
+    "fr-FR": "Desséliande",
+    "es-ES": "Trevenant",
+    "pt-BR": null
+  },
+  "pumpkaboo": {
+    "en-US": "Pumpkaboo",
+    "fr-FR": "Pitrouille",
+    "es-ES": "Pumpkaboo",
+    "pt-BR": null
+  },
+  "gourgeist": {
+    "en-US": "Gourgeist",
+    "fr-FR": "Banshitrouye",
+    "es-ES": "Gourgeist",
+    "pt-BR": null
+  },
+  "bergmite": {
+    "en-US": "Bergmite",
+    "fr-FR": "Grelaçon",
+    "es-ES": "Bergmite",
+    "pt-BR": null
+  },
+  "avalugg": {
+    "en-US": "Avalugg",
+    "fr-FR": "Séracrawl",
+    "es-ES": "Avalugg",
+    "pt-BR": null
+  },
+  "noibat": {
+    "en-US": "Noibat",
+    "fr-FR": "Sonistrelle",
+    "es-ES": "Noibat",
+    "pt-BR": null
+  },
+  "noivern": {
+    "en-US": "Noivern",
+    "fr-FR": "Bruyverne",
+    "es-ES": "Noivern",
+    "pt-BR": null
+  },
+  "xerneas": {
+    "en-US": "Xerneas",
+    "fr-FR": "Xerneas",
+    "es-ES": "Xerneas",
+    "pt-BR": null
+  },
+  "yveltal": {
+    "en-US": "Yveltal",
+    "fr-FR": "Yveltal",
+    "es-ES": "Yveltal",
+    "pt-BR": null
+  },
+  "zygarde": {
+    "en-US": "Zygarde",
+    "fr-FR": "Zygarde",
+    "es-ES": "Zygarde",
+    "pt-BR": null
+  },
+  "diancie": {
+    "en-US": "Diancie",
+    "fr-FR": "Diancie",
+    "es-ES": "Diancie",
+    "pt-BR": null
+  },
+  "hoopa": {
+    "en-US": "Hoopa",
+    "fr-FR": "Hoopa",
+    "es-ES": "Hoopa",
+    "pt-BR": null
+  },
+  "volcanion": {
+    "en-US": "Volcanion",
+    "fr-FR": "Volcanion",
+    "es-ES": "Volcanion",
+    "pt-BR": null
+  },
+  "rowlet": {
+    "en-US": "Rowlet",
+    "fr-FR": "Brindibou",
+    "es-ES": "Rowlet",
+    "pt-BR": null
+  },
+  "dartrix": {
+    "en-US": "Dartrix",
+    "fr-FR": "Efflèche",
+    "es-ES": "Dartrix",
+    "pt-BR": null
+  },
+  "decidueye": {
+    "en-US": "Decidueye",
+    "fr-FR": "Archéduc",
+    "es-ES": "Decidueye",
+    "pt-BR": null
+  },
+  "litten": {
+    "en-US": "Litten",
+    "fr-FR": "Flamiaou",
+    "es-ES": "Litten",
+    "pt-BR": null
+  },
+  "torracat": {
+    "en-US": "Torracat",
+    "fr-FR": "Matoufeu",
+    "es-ES": "Torracat",
+    "pt-BR": null
+  },
+  "incineroar": {
+    "en-US": "Incineroar",
+    "fr-FR": "Félinferno",
+    "es-ES": "Incineroar",
+    "pt-BR": null
+  },
+  "popplio": {
+    "en-US": "Popplio",
+    "fr-FR": "Otaquin",
+    "es-ES": "Popplio",
+    "pt-BR": null
+  },
+  "brionne": {
+    "en-US": "Brionne",
+    "fr-FR": "Otarlette",
+    "es-ES": "Brionne",
+    "pt-BR": null
+  },
+  "primarina": {
+    "en-US": "Primarina",
+    "fr-FR": "Oratoria",
+    "es-ES": "Primarina",
+    "pt-BR": null
+  },
+  "pikipek": {
+    "en-US": "Pikipek",
+    "fr-FR": "Picassaut",
+    "es-ES": "Pikipek",
+    "pt-BR": null
+  },
+  "trumbeak": {
+    "en-US": "Trumbeak",
+    "fr-FR": "Piclairon",
+    "es-ES": "Trumbeak",
+    "pt-BR": null
+  },
+  "toucannon": {
+    "en-US": "Toucannon",
+    "fr-FR": "Bazoucan",
+    "es-ES": "Toucannon",
+    "pt-BR": null
+  },
+  "yungoos": {
+    "en-US": "Yungoos",
+    "fr-FR": "Manglouton",
+    "es-ES": "Yungoos",
+    "pt-BR": null
+  },
+  "gumshoos": {
+    "en-US": "Gumshoos",
+    "fr-FR": "Argouste",
+    "es-ES": "Gumshoos",
+    "pt-BR": null
+  },
+  "grubbin": {
+    "en-US": "Grubbin",
+    "fr-FR": "Larvibule",
+    "es-ES": "Grubbin",
+    "pt-BR": null
+  },
+  "charjabug": {
+    "en-US": "Charjabug",
+    "fr-FR": "Chrysapile",
+    "es-ES": "Charjabug",
+    "pt-BR": null
+  },
+  "vikavolt": {
+    "en-US": "Vikavolt",
+    "fr-FR": "Lucanon",
+    "es-ES": "Vikavolt",
+    "pt-BR": null
+  },
+  "crabrawler": {
+    "en-US": "Crabrawler",
+    "fr-FR": "Crabagarre",
+    "es-ES": "Crabrawler",
+    "pt-BR": null
+  },
+  "crabominable": {
+    "en-US": "Crabominable",
+    "fr-FR": "Crabominable",
+    "es-ES": "Crabominable",
+    "pt-BR": null
+  },
+  "oricorio": {
+    "en-US": "Oricorio",
+    "fr-FR": "Plumeline",
+    "es-ES": "Oricorio",
+    "pt-BR": null
+  },
+  "cutiefly": {
+    "en-US": "Cutiefly",
+    "fr-FR": "Bombydou",
+    "es-ES": "Cutiefly",
+    "pt-BR": null
+  },
+  "ribombee": {
+    "en-US": "Ribombee",
+    "fr-FR": "Rubombelle",
+    "es-ES": "Ribombee",
+    "pt-BR": null
+  },
+  "rockruff": {
+    "en-US": "Rockruff",
+    "fr-FR": "Rocabot",
+    "es-ES": "Rockruff",
+    "pt-BR": null
+  },
+  "lycanroc": {
+    "en-US": "Lycanroc",
+    "fr-FR": "Lougaroc",
+    "es-ES": "Lycanroc",
+    "pt-BR": null
+  },
+  "wishiwashi": {
+    "en-US": "Wishiwashi",
+    "fr-FR": "Froussardine",
+    "es-ES": "Wishiwashi",
+    "pt-BR": null
+  },
+  "mareanie": {
+    "en-US": "Mareanie",
+    "fr-FR": "Vorastérie",
+    "es-ES": "Mareanie",
+    "pt-BR": null
+  },
+  "toxapex": {
+    "en-US": "Toxapex",
+    "fr-FR": "Prédastérie",
+    "es-ES": "Toxapex",
+    "pt-BR": null
+  },
+  "mudbray": {
+    "en-US": "Mudbray",
+    "fr-FR": "Tiboudet",
+    "es-ES": "Mudbray",
+    "pt-BR": null
+  },
+  "mudsdale": {
+    "en-US": "Mudsdale",
+    "fr-FR": "Bourrinos",
+    "es-ES": "Mudsdale",
+    "pt-BR": null
+  },
+  "dewpider": {
+    "en-US": "Dewpider",
+    "fr-FR": "Araqua",
+    "es-ES": "Dewpider",
+    "pt-BR": null
+  },
+  "araquanid": {
+    "en-US": "Araquanid",
+    "fr-FR": "Tarenbulle",
+    "es-ES": "Araquanid",
+    "pt-BR": null
+  },
+  "fomantis": {
+    "en-US": "Fomantis",
+    "fr-FR": "Mimantis",
+    "es-ES": "Fomantis",
+    "pt-BR": null
+  },
+  "lurantis": {
+    "en-US": "Lurantis",
+    "fr-FR": "Floramantis",
+    "es-ES": "Lurantis",
+    "pt-BR": null
+  },
+  "morelull": {
+    "en-US": "Morelull",
+    "fr-FR": "Spododo",
+    "es-ES": "Morelull",
+    "pt-BR": null
+  },
+  "shiinotic": {
+    "en-US": "Shiinotic",
+    "fr-FR": "Lampignon",
+    "es-ES": "Shiinotic",
+    "pt-BR": null
+  },
+  "salandit": {
+    "en-US": "Salandit",
+    "fr-FR": "Tritox",
+    "es-ES": "Salandit",
+    "pt-BR": null
+  },
+  "salazzle": {
+    "en-US": "Salazzle",
+    "fr-FR": "Malamandre",
+    "es-ES": "Salazzle",
+    "pt-BR": null
+  },
+  "stufful": {
+    "en-US": "Stufful",
+    "fr-FR": "Nounourson",
+    "es-ES": "Stufful",
+    "pt-BR": null
+  },
+  "bewear": {
+    "en-US": "Bewear",
+    "fr-FR": "Chelours",
+    "es-ES": "Bewear",
+    "pt-BR": null
+  },
+  "bounsweet": {
+    "en-US": "Bounsweet",
+    "fr-FR": "Croquine",
+    "es-ES": "Bounsweet",
+    "pt-BR": null
+  },
+  "steenee": {
+    "en-US": "Steenee",
+    "fr-FR": "Candine",
+    "es-ES": "Steenee",
+    "pt-BR": null
+  },
+  "tsareena": {
+    "en-US": "Tsareena",
+    "fr-FR": "Sucreine",
+    "es-ES": "Tsareena",
+    "pt-BR": null
+  },
+  "comfey": {
+    "en-US": "Comfey",
+    "fr-FR": "Guérilande",
+    "es-ES": "Comfey",
+    "pt-BR": null
+  },
+  "oranguru": {
+    "en-US": "Oranguru",
+    "fr-FR": "Gouroutan",
+    "es-ES": "Oranguru",
+    "pt-BR": null
+  },
+  "passimian": {
+    "en-US": "Passimian",
+    "fr-FR": "Quartermac",
+    "es-ES": "Passimian",
+    "pt-BR": null
+  },
+  "wimpod": {
+    "en-US": "Wimpod",
+    "fr-FR": "Sovkipou",
+    "es-ES": "Wimpod",
+    "pt-BR": null
+  },
+  "golisopod": {
+    "en-US": "Golisopod",
+    "fr-FR": "Sarmuraï",
+    "es-ES": "Golisopod",
+    "pt-BR": null
+  },
+  "sandygast": {
+    "en-US": "Sandygast",
+    "fr-FR": "Bacabouh",
+    "es-ES": "Sandygast",
+    "pt-BR": null
+  },
+  "palossand": {
+    "en-US": "Palossand",
+    "fr-FR": "Trépassable",
+    "es-ES": "Palossand",
+    "pt-BR": null
+  },
+  "pyukumuku": {
+    "en-US": "Pyukumuku",
+    "fr-FR": "Concombaffe",
+    "es-ES": "Pyukumuku",
+    "pt-BR": null
+  },
+  "type: null": {
+    "en-US": "Type: Null",
+    "fr-FR": "Type:0",
+    "es-ES": "Código Cero",
+    "pt-BR": null
+  },
+  "silvally": {
+    "en-US": "Silvally",
+    "fr-FR": "Silvallié",
+    "es-ES": "Silvally",
+    "pt-BR": null
+  },
+  "minior": {
+    "en-US": "Minior",
+    "fr-FR": "Météno",
+    "es-ES": "Minior",
+    "pt-BR": null
+  },
+  "komala": {
+    "en-US": "Komala",
+    "fr-FR": "Dodoala",
+    "es-ES": "Komala",
+    "pt-BR": null
+  },
+  "turtonator": {
+    "en-US": "Turtonator",
+    "fr-FR": "Boumata",
+    "es-ES": "Turtonator",
+    "pt-BR": null
+  },
+  "togedemaru": {
+    "en-US": "Togedemaru",
+    "fr-FR": "Togedemaru",
+    "es-ES": "Togedemaru",
+    "pt-BR": null
+  },
+  "mimikyu": {
+    "en-US": "Mimikyu",
+    "fr-FR": "Mimiqui",
+    "es-ES": "Mimikyu",
+    "pt-BR": null
+  },
+  "bruxish": {
+    "en-US": "Bruxish",
+    "fr-FR": "Denticrisse",
+    "es-ES": "Bruxish",
+    "pt-BR": null
+  },
+  "drampa": {
+    "en-US": "Drampa",
+    "fr-FR": "Draïeul",
+    "es-ES": "Drampa",
+    "pt-BR": null
+  },
+  "dhelmise": {
+    "en-US": "Dhelmise",
+    "fr-FR": "Sinistrail",
+    "es-ES": "Dhelmise",
+    "pt-BR": null
+  },
+  "jangmo-o": {
+    "en-US": "Jangmo-o",
+    "fr-FR": "Bébécaille",
+    "es-ES": "Jangmo-o",
+    "pt-BR": null
+  },
+  "hakamo-o": {
+    "en-US": "Hakamo-o",
+    "fr-FR": "Écaïd",
+    "es-ES": "Hakamo-o",
+    "pt-BR": null
+  },
+  "kommo-o": {
+    "en-US": "Kommo-o",
+    "fr-FR": "Ékaïser",
+    "es-ES": "Kommo-o",
+    "pt-BR": null
+  },
+  "tapu koko": {
+    "en-US": "Tapu Koko",
+    "fr-FR": "Tokorico",
+    "es-ES": "Tapu Koko",
+    "pt-BR": null
+  },
+  "tapu lele": {
+    "en-US": "Tapu Lele",
+    "fr-FR": "Tokopiyon",
+    "es-ES": "Tapu Lele",
+    "pt-BR": null
+  },
+  "tapu bulu": {
+    "en-US": "Tapu Bulu",
+    "fr-FR": "Tokotoro",
+    "es-ES": "Tapu Bulu",
+    "pt-BR": null
+  },
+  "tapu fini": {
+    "en-US": "Tapu Fini",
+    "fr-FR": "Tokopisco",
+    "es-ES": "Tapu Fini",
+    "pt-BR": null
+  },
+  "cosmog": {
+    "en-US": "Cosmog",
+    "fr-FR": "Cosmog",
+    "es-ES": "Cosmog",
+    "pt-BR": null
+  },
+  "cosmoem": {
+    "en-US": "Cosmoem",
+    "fr-FR": "Cosmovum",
+    "es-ES": "Cosmoem",
+    "pt-BR": null
+  },
+  "solgaleo": {
+    "en-US": "Solgaleo",
+    "fr-FR": "Solgaleo",
+    "es-ES": "Solgaleo",
+    "pt-BR": null
+  },
+  "lunala": {
+    "en-US": "Lunala",
+    "fr-FR": "Lunala",
+    "es-ES": "Lunala",
+    "pt-BR": null
+  },
+  "nihilego": {
+    "en-US": "Nihilego",
+    "fr-FR": "Zéroïd",
+    "es-ES": "Nihilego",
+    "pt-BR": null
+  },
+  "buzzwole": {
+    "en-US": "Buzzwole",
+    "fr-FR": "Mouscoto",
+    "es-ES": "Buzzwole",
+    "pt-BR": null
+  },
+  "pheromosa": {
+    "en-US": "Pheromosa",
+    "fr-FR": "Cancrelove",
+    "es-ES": "Pheromosa",
+    "pt-BR": null
+  },
+  "xurkitree": {
+    "en-US": "Xurkitree",
+    "fr-FR": "Câblifère",
+    "es-ES": "Xurkitree",
+    "pt-BR": null
+  },
+  "celesteela": {
+    "en-US": "Celesteela",
+    "fr-FR": "Bamboiselle",
+    "es-ES": "Celesteela",
+    "pt-BR": null
+  },
+  "kartana": {
+    "en-US": "Kartana",
+    "fr-FR": "Katagami",
+    "es-ES": "Kartana",
+    "pt-BR": null
+  },
+  "guzzlord": {
+    "en-US": "Guzzlord",
+    "fr-FR": "Engloutyran",
+    "es-ES": "Guzzlord",
+    "pt-BR": null
+  },
+  "necrozma": {
+    "en-US": "Necrozma",
+    "fr-FR": "Necrozma",
+    "es-ES": "Necrozma",
+    "pt-BR": null
+  },
+  "magearna": {
+    "en-US": "Magearna",
+    "fr-FR": "Magearna",
+    "es-ES": "Magearna",
+    "pt-BR": null
+  },
+  "marshadow": {
+    "en-US": "Marshadow",
+    "fr-FR": "Marshadow",
+    "es-ES": "Marshadow",
+    "pt-BR": null
+  },
+  "poipole": {
+    "en-US": "Poipole",
+    "fr-FR": "Vémini",
+    "es-ES": "Poipole",
+    "pt-BR": null
+  },
+  "naganadel": {
+    "en-US": "Naganadel",
+    "fr-FR": "Mandrillon",
+    "es-ES": "Naganadel",
+    "pt-BR": null
+  },
+  "stakataka": {
+    "en-US": "Stakataka",
+    "fr-FR": "Ama-Ama",
+    "es-ES": "Stakataka",
+    "pt-BR": null
+  },
+  "blacephalon": {
+    "en-US": "Blacephalon",
+    "fr-FR": "Pierroteknik",
+    "es-ES": "Blacephalon",
+    "pt-BR": null
+  },
+  "zeraora": {
+    "en-US": "Zeraora",
+    "fr-FR": "Zeraora",
+    "es-ES": "Zeraora",
+    "pt-BR": null
+  },
+  "meltan": {
+    "en-US": "Meltan",
+    "fr-FR": "Meltan",
+    "es-ES": "Meltan",
+    "pt-BR": null
+  },
+  "melmetal": {
+    "en-US": "Melmetal",
+    "fr-FR": "Melmetal",
+    "es-ES": "Melmetal",
+    "pt-BR": null
+  },
+  "grookey": {
+    "en-US": "Grookey",
+    "fr-FR": "Ouistempo",
+    "es-ES": "Grookey",
+    "pt-BR": null
+  },
+  "thwackey": {
+    "en-US": "Thwackey",
+    "fr-FR": "Badabouin",
+    "es-ES": "Thwackey",
+    "pt-BR": null
+  },
+  "rillaboom": {
+    "en-US": "Rillaboom",
+    "fr-FR": "Gorythmic",
+    "es-ES": "Rillaboom",
+    "pt-BR": null
+  },
+  "scorbunny": {
+    "en-US": "Scorbunny",
+    "fr-FR": "Flambino",
+    "es-ES": "Scorbunny",
+    "pt-BR": null
+  },
+  "raboot": {
+    "en-US": "Raboot",
+    "fr-FR": "Lapyro",
+    "es-ES": "Raboot",
+    "pt-BR": null
+  },
+  "cinderace": {
+    "en-US": "Cinderace",
+    "fr-FR": "Pyrobut",
+    "es-ES": "Cinderace",
+    "pt-BR": null
+  },
+  "sobble": {
+    "en-US": "Sobble",
+    "fr-FR": "Larméléon",
+    "es-ES": "Sobble",
+    "pt-BR": null
+  },
+  "drizzile": {
+    "en-US": "Drizzile",
+    "fr-FR": "Arrozard",
+    "es-ES": "Drizzile",
+    "pt-BR": null
+  },
+  "inteleon": {
+    "en-US": "Inteleon",
+    "fr-FR": "Lézargus",
+    "es-ES": "Inteleon",
+    "pt-BR": null
+  },
+  "skwovet": {
+    "en-US": "Skwovet",
+    "fr-FR": "Rongourmand",
+    "es-ES": "Skwovet",
+    "pt-BR": null
+  },
+  "greedent": {
+    "en-US": "Greedent",
+    "fr-FR": "Rongrigou",
+    "es-ES": "Greedent",
+    "pt-BR": null
+  },
+  "rookidee": {
+    "en-US": "Rookidee",
+    "fr-FR": "Minisange",
+    "es-ES": "Rookidee",
+    "pt-BR": null
+  },
+  "corvisquire": {
+    "en-US": "Corvisquire",
+    "fr-FR": "Bleuseille",
+    "es-ES": "Corvisquire",
+    "pt-BR": null
+  },
+  "corviknight": {
+    "en-US": "Corviknight",
+    "fr-FR": "Corvaillus",
+    "es-ES": "Corviknight",
+    "pt-BR": null
+  },
+  "blipbug": {
+    "en-US": "Blipbug",
+    "fr-FR": "Larvadar",
+    "es-ES": "Blipbug",
+    "pt-BR": null
+  },
+  "dottler": {
+    "en-US": "Dottler",
+    "fr-FR": "Coléodôme",
+    "es-ES": "Dottler",
+    "pt-BR": null
+  },
+  "orbeetle": {
+    "en-US": "Orbeetle",
+    "fr-FR": "Astronelle",
+    "es-ES": "Orbeetle",
+    "pt-BR": null
+  },
+  "nickit": {
+    "en-US": "Nickit",
+    "fr-FR": "Goupilou",
+    "es-ES": "Nickit",
+    "pt-BR": null
+  },
+  "thievul": {
+    "en-US": "Thievul",
+    "fr-FR": "Roublenard",
+    "es-ES": "Thievul",
+    "pt-BR": null
+  },
+  "gossifleur": {
+    "en-US": "Gossifleur",
+    "fr-FR": "Tournicoton",
+    "es-ES": "Gossifleur",
+    "pt-BR": null
+  },
+  "eldegoss": {
+    "en-US": "Eldegoss",
+    "fr-FR": "Blancoton",
+    "es-ES": "Eldegoss",
+    "pt-BR": null
+  },
+  "wooloo": {
+    "en-US": "Wooloo",
+    "fr-FR": "Moumouton",
+    "es-ES": "Wooloo",
+    "pt-BR": null
+  },
+  "dubwool": {
+    "en-US": "Dubwool",
+    "fr-FR": "Moumouflon",
+    "es-ES": "Dubwool",
+    "pt-BR": null
+  },
+  "chewtle": {
+    "en-US": "Chewtle",
+    "fr-FR": "Khélocrok",
+    "es-ES": "Chewtle",
+    "pt-BR": null
+  },
+  "drednaw": {
+    "en-US": "Drednaw",
+    "fr-FR": "Torgamord",
+    "es-ES": "Drednaw",
+    "pt-BR": null
+  },
+  "yamper": {
+    "en-US": "Yamper",
+    "fr-FR": "Voltoutou",
+    "es-ES": "Yamper",
+    "pt-BR": null
+  },
+  "boltund": {
+    "en-US": "Boltund",
+    "fr-FR": "Fulgudog",
+    "es-ES": "Boltund",
+    "pt-BR": null
+  },
+  "rolycoly": {
+    "en-US": "Rolycoly",
+    "fr-FR": "Charbi",
+    "es-ES": "Rolycoly",
+    "pt-BR": null
+  },
+  "carkol": {
+    "en-US": "Carkol",
+    "fr-FR": "Wagomine",
+    "es-ES": "Carkol",
+    "pt-BR": null
+  },
+  "coalossal": {
+    "en-US": "Coalossal",
+    "fr-FR": "Monthracite",
+    "es-ES": "Coalossal",
+    "pt-BR": null
+  },
+  "applin": {
+    "en-US": "Applin",
+    "fr-FR": "Verpom",
+    "es-ES": "Applin",
+    "pt-BR": null
+  },
+  "flapple": {
+    "en-US": "Flapple",
+    "fr-FR": "Pomdrapi",
+    "es-ES": "Flapple",
+    "pt-BR": null
+  },
+  "appletun": {
+    "en-US": "Appletun",
+    "fr-FR": "Dratatin",
+    "es-ES": "Appletun",
+    "pt-BR": null
+  },
+  "silicobra": {
+    "en-US": "Silicobra",
+    "fr-FR": "Dunaja",
+    "es-ES": "Silicobra",
+    "pt-BR": null
+  },
+  "sandaconda": {
+    "en-US": "Sandaconda",
+    "fr-FR": "Dunaconda",
+    "es-ES": "Sandaconda",
+    "pt-BR": null
+  },
+  "cramorant": {
+    "en-US": "Cramorant",
+    "fr-FR": "Nigosier",
+    "es-ES": "Cramorant",
+    "pt-BR": null
+  },
+  "arrokuda": {
+    "en-US": "Arrokuda",
+    "fr-FR": "Embrochet",
+    "es-ES": "Arrokuda",
+    "pt-BR": null
+  },
+  "barraskewda": {
+    "en-US": "Barraskewda",
+    "fr-FR": "Hastacuda",
+    "es-ES": "Barraskewda",
+    "pt-BR": null
+  },
+  "toxel": {
+    "en-US": "Toxel",
+    "fr-FR": "Toxizap",
+    "es-ES": "Toxel",
+    "pt-BR": null
+  },
+  "toxtricity": {
+    "en-US": "Toxtricity",
+    "fr-FR": "Salarsen",
+    "es-ES": "Toxtricity",
+    "pt-BR": null
+  },
+  "sizzlipede": {
+    "en-US": "Sizzlipede",
+    "fr-FR": "Grillepattes",
+    "es-ES": "Sizzlipede",
+    "pt-BR": null
+  },
+  "centiskorch": {
+    "en-US": "Centiskorch",
+    "fr-FR": "Scolocendre",
+    "es-ES": "Centiskorch",
+    "pt-BR": null
+  },
+  "clobbopus": {
+    "en-US": "Clobbopus",
+    "fr-FR": "Poulpaf",
+    "es-ES": "Clobbopus",
+    "pt-BR": null
+  },
+  "grapploct": {
+    "en-US": "Grapploct",
+    "fr-FR": "Krakos",
+    "es-ES": "Grapploct",
+    "pt-BR": null
+  },
+  "sinistea": {
+    "en-US": "Sinistea",
+    "fr-FR": "Théffroi",
+    "es-ES": "Sinistea",
+    "pt-BR": null
+  },
+  "polteageist": {
+    "en-US": "Polteageist",
+    "fr-FR": "Polthégeist",
+    "es-ES": "Polteageist",
+    "pt-BR": null
+  },
+  "hatenna": {
+    "en-US": "Hatenna",
+    "fr-FR": "Bibichut",
+    "es-ES": "Hatenna",
+    "pt-BR": null
+  },
+  "hattrem": {
+    "en-US": "Hattrem",
+    "fr-FR": "Chapotus",
+    "es-ES": "Hattrem",
+    "pt-BR": null
+  },
+  "hatterene": {
+    "en-US": "Hatterene",
+    "fr-FR": "Sorcilence",
+    "es-ES": "Hatterene",
+    "pt-BR": null
+  },
+  "impidimp": {
+    "en-US": "Impidimp",
+    "fr-FR": "Grimalin",
+    "es-ES": "Impidimp",
+    "pt-BR": null
+  },
+  "morgrem": {
+    "en-US": "Morgrem",
+    "fr-FR": "Fourbelin",
+    "es-ES": "Morgrem",
+    "pt-BR": null
+  },
+  "grimmsnarl": {
+    "en-US": "Grimmsnarl",
+    "fr-FR": "Angoliath",
+    "es-ES": "Grimmsnarl",
+    "pt-BR": null
+  },
+  "obstagoon": {
+    "en-US": "Obstagoon",
+    "fr-FR": "Ixon",
+    "es-ES": "Obstagoon",
+    "pt-BR": null
+  },
+  "perrserker": {
+    "en-US": "Perrserker",
+    "fr-FR": "Berserkatt",
+    "es-ES": "Perrserker",
+    "pt-BR": null
+  },
+  "cursola": {
+    "en-US": "Cursola",
+    "fr-FR": "Corayôme",
+    "es-ES": "Cursola",
+    "pt-BR": null
+  },
+  "sirfetch’d": {
+    "en-US": "Sirfetch’d",
+    "fr-FR": "Palarticho",
+    "es-ES": "Sirfetch’d",
+    "pt-BR": null
+  },
+  "mr. rime": {
+    "en-US": "Mr. Rime",
+    "fr-FR": "M. Glaquette",
+    "es-ES": "Mr. Rime",
+    "pt-BR": null
+  },
+  "runerigus": {
+    "en-US": "Runerigus",
+    "fr-FR": "Tutétékri",
+    "es-ES": "Runerigus",
+    "pt-BR": null
+  },
+  "milcery": {
+    "en-US": "Milcery",
+    "fr-FR": "Crèmy",
+    "es-ES": "Milcery",
+    "pt-BR": null
+  },
+  "alcremie": {
+    "en-US": "Alcremie",
+    "fr-FR": "Charmilly",
+    "es-ES": "Alcremie",
+    "pt-BR": null
+  },
+  "falinks": {
+    "en-US": "Falinks",
+    "fr-FR": "Hexadron",
+    "es-ES": "Falinks",
+    "pt-BR": null
+  },
+  "pincurchin": {
+    "en-US": "Pincurchin",
+    "fr-FR": "Wattapik",
+    "es-ES": "Pincurchin",
+    "pt-BR": null
+  },
+  "snom": {
+    "en-US": "Snom",
+    "fr-FR": "Frissonille",
+    "es-ES": "Snom",
+    "pt-BR": null
+  },
+  "frosmoth": {
+    "en-US": "Frosmoth",
+    "fr-FR": "Beldeneige",
+    "es-ES": "Frosmoth",
+    "pt-BR": null
+  },
+  "stonjourner": {
+    "en-US": "Stonjourner",
+    "fr-FR": "Dolman",
+    "es-ES": "Stonjourner",
+    "pt-BR": null
+  },
+  "eiscue": {
+    "en-US": "Eiscue",
+    "fr-FR": "Bekaglaçon",
+    "es-ES": "Eiscue",
+    "pt-BR": null
+  },
+  "indeedee": {
+    "en-US": "Indeedee",
+    "fr-FR": "Wimessir",
+    "es-ES": "Indeedee",
+    "pt-BR": null
+  },
+  "morpeko": {
+    "en-US": "Morpeko",
+    "fr-FR": "Morpeko",
+    "es-ES": "Morpeko",
+    "pt-BR": null
+  },
+  "cufant": {
+    "en-US": "Cufant",
+    "fr-FR": "Charibari",
+    "es-ES": "Cufant",
+    "pt-BR": null
+  },
+  "copperajah": {
+    "en-US": "Copperajah",
+    "fr-FR": "Pachyradjah",
+    "es-ES": "Copperajah",
+    "pt-BR": null
+  },
+  "dracozolt": {
+    "en-US": "Dracozolt",
+    "fr-FR": "Galvagon",
+    "es-ES": "Dracozolt",
+    "pt-BR": null
+  },
+  "arctozolt": {
+    "en-US": "Arctozolt",
+    "fr-FR": "Galvagla",
+    "es-ES": "Arctozolt",
+    "pt-BR": null
+  },
+  "dracovish": {
+    "en-US": "Dracovish",
+    "fr-FR": "Hydragon",
+    "es-ES": "Dracovish",
+    "pt-BR": null
+  },
+  "arctovish": {
+    "en-US": "Arctovish",
+    "fr-FR": "Hydragla",
+    "es-ES": "Arctovish",
+    "pt-BR": null
+  },
+  "duraludon": {
+    "en-US": "Duraludon",
+    "fr-FR": "Duralugon",
+    "es-ES": "Duraludon",
+    "pt-BR": null
+  },
+  "dreepy": {
+    "en-US": "Dreepy",
+    "fr-FR": "Fantyrm",
+    "es-ES": "Dreepy",
+    "pt-BR": null
+  },
+  "drakloak": {
+    "en-US": "Drakloak",
+    "fr-FR": "Dispareptil",
+    "es-ES": "Drakloak",
+    "pt-BR": null
+  },
+  "dragapult": {
+    "en-US": "Dragapult",
+    "fr-FR": "Lanssorien",
+    "es-ES": "Dragapult",
+    "pt-BR": null
+  },
+  "zacian": {
+    "en-US": "Zacian",
+    "fr-FR": "Zacian",
+    "es-ES": "Zacian",
+    "pt-BR": null
+  },
+  "zamazenta": {
+    "en-US": "Zamazenta",
+    "fr-FR": "Zamazenta",
+    "es-ES": "Zamazenta",
+    "pt-BR": null
+  },
+  "eternatus": {
+    "en-US": "Eternatus",
+    "fr-FR": "Éthernatos",
+    "es-ES": "Eternatus",
+    "pt-BR": null
+  },
+  "kubfu": {
+    "en-US": "Kubfu",
+    "fr-FR": "Wushours",
+    "es-ES": "Kubfu",
+    "pt-BR": null
+  },
+  "urshifu": {
+    "en-US": "Urshifu",
+    "fr-FR": "Shifours",
+    "es-ES": "Urshifu",
+    "pt-BR": null
+  },
+  "zarude": {
+    "en-US": "Zarude",
+    "fr-FR": "Zarude",
+    "es-ES": "Zarude",
+    "pt-BR": null
+  },
+  "regieleki": {
+    "en-US": "Regieleki",
+    "fr-FR": "Regieleki",
+    "es-ES": "Regieleki",
+    "pt-BR": null
+  },
+  "regidrago": {
+    "en-US": "Regidrago",
+    "fr-FR": "Regidrago",
+    "es-ES": "Regidrago",
+    "pt-BR": null
+  },
+  "glastrier": {
+    "en-US": "Glastrier",
+    "fr-FR": "Blizzeval",
+    "es-ES": "Glastrier",
+    "pt-BR": null
+  },
+  "spectrier": {
+    "en-US": "Spectrier",
+    "fr-FR": "Spectreval",
+    "es-ES": "Spectrier",
+    "pt-BR": null
+  },
+  "calyrex": {
+    "en-US": "Calyrex",
+    "fr-FR": "Sylveroy",
+    "es-ES": "Calyrex",
+    "pt-BR": null
+  },
+  "wyrdeer": {
+    "en-US": "Wyrdeer",
+    "fr-FR": "Cerbyllin",
+    "es-ES": "Wyrdeer",
+    "pt-BR": null
+  },
+  "kleavor": {
+    "en-US": "Kleavor",
+    "fr-FR": "Hachécateur",
+    "es-ES": "Kleavor",
+    "pt-BR": null
+  },
+  "ursaluna": {
+    "en-US": "Ursaluna",
+    "fr-FR": "Ursaking",
+    "es-ES": "Ursaluna",
+    "pt-BR": null
+  },
+  "basculegion": {
+    "en-US": "Basculegion",
+    "fr-FR": "Paragruel",
+    "es-ES": "Basculegion",
+    "pt-BR": null
+  },
+  "sneasler": {
+    "en-US": "Sneasler",
+    "fr-FR": "Farfurex",
+    "es-ES": "Sneasler",
+    "pt-BR": null
+  },
+  "overqwil": {
+    "en-US": "Overqwil",
+    "fr-FR": "Qwilpik",
+    "es-ES": "Overqwil",
+    "pt-BR": null
+  },
+  "enamorus": {
+    "en-US": "Enamorus",
+    "fr-FR": "Amovénus",
+    "es-ES": "Enamorus",
+    "pt-BR": null
+  },
+  "sprigatito": {
+    "en-US": "Sprigatito",
+    "fr-FR": "Poussacha",
+    "es-ES": "Sprigatito",
+    "pt-BR": null
+  },
+  "floragato": {
+    "en-US": "Floragato",
+    "fr-FR": "Matourgeon",
+    "es-ES": "Floragato",
+    "pt-BR": null
+  },
+  "meowscarada": {
+    "en-US": "Meowscarada",
+    "fr-FR": "Miascarade",
+    "es-ES": "Meowscarada",
+    "pt-BR": null
+  },
+  "fuecoco": {
+    "en-US": "Fuecoco",
+    "fr-FR": "Chochodile",
+    "es-ES": "Fuecoco",
+    "pt-BR": null
+  },
+  "crocalor": {
+    "en-US": "Crocalor",
+    "fr-FR": "Crocogril",
+    "es-ES": "Crocalor",
+    "pt-BR": null
+  },
+  "skeledirge": {
+    "en-US": "Skeledirge",
+    "fr-FR": "Flâmigator",
+    "es-ES": "Skeledirge",
+    "pt-BR": null
+  },
+  "quaxly": {
+    "en-US": "Quaxly",
+    "fr-FR": "Coiffeton",
+    "es-ES": "Quaxly",
+    "pt-BR": null
+  },
+  "quaxwell": {
+    "en-US": "Quaxwell",
+    "fr-FR": "Canarbello",
+    "es-ES": "Quaxwell",
+    "pt-BR": null
+  },
+  "quaquaval": {
+    "en-US": "Quaquaval",
+    "fr-FR": "Palmaval",
+    "es-ES": "Quaquaval",
+    "pt-BR": null
+  },
+  "lechonk": {
+    "en-US": "Lechonk",
+    "fr-FR": "Gourmelet",
+    "es-ES": "Lechonk",
+    "pt-BR": null
+  },
+  "oinkologne": {
+    "en-US": "Oinkologne",
+    "fr-FR": "Fragroin",
+    "es-ES": "Oinkologne",
+    "pt-BR": null
+  },
+  "tarountula": {
+    "en-US": "Tarountula",
+    "fr-FR": "Tissenboule",
+    "es-ES": "Tarountula",
+    "pt-BR": null
+  },
+  "spidops": {
+    "en-US": "Spidops",
+    "fr-FR": "Filentrappe",
+    "es-ES": "Spidops",
+    "pt-BR": null
+  },
+  "nymble": {
+    "en-US": "Nymble",
+    "fr-FR": "Lilliterelle",
+    "es-ES": "Nymble",
+    "pt-BR": null
+  },
+  "lokix": {
+    "en-US": "Lokix",
+    "fr-FR": "Gambex",
+    "es-ES": "Lokix",
+    "pt-BR": null
+  },
+  "pawmi": {
+    "en-US": "Pawmi",
+    "fr-FR": "Pohm",
+    "es-ES": "Pawmi",
+    "pt-BR": null
+  },
+  "pawmo": {
+    "en-US": "Pawmo",
+    "fr-FR": "Pohmotte",
+    "es-ES": "Pawmo",
+    "pt-BR": null
+  },
+  "pawmot": {
+    "en-US": "Pawmot",
+    "fr-FR": "Pohmarmotte",
+    "es-ES": "Pawmot",
+    "pt-BR": null
+  },
+  "tandemaus": {
+    "en-US": "Tandemaus",
+    "fr-FR": "Compagnol",
+    "es-ES": "Tandemaus",
+    "pt-BR": null
+  },
+  "maushold": {
+    "en-US": "Maushold",
+    "fr-FR": "Famignol",
+    "es-ES": "Maushold",
+    "pt-BR": null
+  },
+  "fidough": {
+    "en-US": "Fidough",
+    "fr-FR": "Pâtachiot",
+    "es-ES": "Fidough",
+    "pt-BR": null
+  },
+  "dachsbun": {
+    "en-US": "Dachsbun",
+    "fr-FR": "Briochien",
+    "es-ES": "Dachsbun",
+    "pt-BR": null
+  },
+  "smoliv": {
+    "en-US": "Smoliv",
+    "fr-FR": "Olivini",
+    "es-ES": "Smoliv",
+    "pt-BR": null
+  },
+  "dolliv": {
+    "en-US": "Dolliv",
+    "fr-FR": "Olivado",
+    "es-ES": "Dolliv",
+    "pt-BR": null
+  },
+  "arboliva": {
+    "en-US": "Arboliva",
+    "fr-FR": "Arboliva",
+    "es-ES": "Arboliva",
+    "pt-BR": null
+  },
+  "squawkabilly": {
+    "en-US": "Squawkabilly",
+    "fr-FR": "Tapatoès",
+    "es-ES": "Squawkabilly",
+    "pt-BR": null
+  },
+  "nacli": {
+    "en-US": "Nacli",
+    "fr-FR": "Selutin",
+    "es-ES": "Nacli",
+    "pt-BR": null
+  },
+  "naclstack": {
+    "en-US": "Naclstack",
+    "fr-FR": "Amassel",
+    "es-ES": "Naclstack",
+    "pt-BR": null
+  },
+  "garganacl": {
+    "en-US": "Garganacl",
+    "fr-FR": "Gigansel",
+    "es-ES": "Garganacl",
+    "pt-BR": null
+  },
+  "charcadet": {
+    "en-US": "Charcadet",
+    "fr-FR": "Charbambin",
+    "es-ES": "Charcadet",
+    "pt-BR": null
+  },
+  "armarouge": {
+    "en-US": "Armarouge",
+    "fr-FR": "Carmadura",
+    "es-ES": "Armarouge",
+    "pt-BR": null
+  },
+  "ceruledge": {
+    "en-US": "Ceruledge",
+    "fr-FR": "Malvalame",
+    "es-ES": "Ceruledge",
+    "pt-BR": null
+  },
+  "tadbulb": {
+    "en-US": "Tadbulb",
+    "fr-FR": "Têtampoule",
+    "es-ES": "Tadbulb",
+    "pt-BR": null
+  },
+  "bellibolt": {
+    "en-US": "Bellibolt",
+    "fr-FR": "Ampibidou",
+    "es-ES": "Bellibolt",
+    "pt-BR": null
+  },
+  "wattrel": {
+    "en-US": "Wattrel",
+    "fr-FR": "Zapétrel",
+    "es-ES": "Wattrel",
+    "pt-BR": null
+  },
+  "kilowattrel": {
+    "en-US": "Kilowattrel",
+    "fr-FR": "Fulgulairo",
+    "es-ES": "Kilowattrel",
+    "pt-BR": null
+  },
+  "maschiff": {
+    "en-US": "Maschiff",
+    "fr-FR": "Grondogue",
+    "es-ES": "Maschiff",
+    "pt-BR": null
+  },
+  "mabosstiff": {
+    "en-US": "Mabosstiff",
+    "fr-FR": "Dogrino",
+    "es-ES": "Mabosstiff",
+    "pt-BR": null
+  },
+  "shroodle": {
+    "en-US": "Shroodle",
+    "fr-FR": "Gribouraigne",
+    "es-ES": "Shroodle",
+    "pt-BR": null
+  },
+  "grafaiai": {
+    "en-US": "Grafaiai",
+    "fr-FR": "Tag-Tag",
+    "es-ES": "Grafaiai",
+    "pt-BR": null
+  },
+  "bramblin": {
+    "en-US": "Bramblin",
+    "fr-FR": "Virovent",
+    "es-ES": "Bramblin",
+    "pt-BR": null
+  },
+  "brambleghast": {
+    "en-US": "Brambleghast",
+    "fr-FR": "Virevorreur",
+    "es-ES": "Brambleghast",
+    "pt-BR": null
+  },
+  "toedscool": {
+    "en-US": "Toedscool",
+    "fr-FR": "Terracool",
+    "es-ES": "Toedscool",
+    "pt-BR": null
+  },
+  "toedscruel": {
+    "en-US": "Toedscruel",
+    "fr-FR": "Terracruel",
+    "es-ES": "Toedscruel",
+    "pt-BR": null
+  },
+  "klawf": {
+    "en-US": "Klawf",
+    "fr-FR": "Craparoi",
+    "es-ES": "Klawf",
+    "pt-BR": null
+  },
+  "capsakid": {
+    "en-US": "Capsakid",
+    "fr-FR": "Pimito",
+    "es-ES": "Capsakid",
+    "pt-BR": null
+  },
+  "scovillain": {
+    "en-US": "Scovillain",
+    "fr-FR": "Scovilain",
+    "es-ES": "Scovillain",
+    "pt-BR": null
+  },
+  "rellor": {
+    "en-US": "Rellor",
+    "fr-FR": "Léboulérou",
+    "es-ES": "Rellor",
+    "pt-BR": null
+  },
+  "rabsca": {
+    "en-US": "Rabsca",
+    "fr-FR": "Bérasca",
+    "es-ES": "Rabsca",
+    "pt-BR": null
+  },
+  "flittle": {
+    "en-US": "Flittle",
+    "fr-FR": "Flotillon",
+    "es-ES": "Flittle",
+    "pt-BR": null
+  },
+  "espathra": {
+    "en-US": "Espathra",
+    "fr-FR": "Cléopsytra",
+    "es-ES": "Espathra",
+    "pt-BR": null
+  },
+  "tinkatink": {
+    "en-US": "Tinkatink",
+    "fr-FR": "Forgerette",
+    "es-ES": "Tinkatink",
+    "pt-BR": null
+  },
+  "tinkatuff": {
+    "en-US": "Tinkatuff",
+    "fr-FR": "Forgella",
+    "es-ES": "Tinkatuff",
+    "pt-BR": null
+  },
+  "tinkaton": {
+    "en-US": "Tinkaton",
+    "fr-FR": "Forgelina",
+    "es-ES": "Tinkaton",
+    "pt-BR": null
+  },
+  "wiglett": {
+    "en-US": "Wiglett",
+    "fr-FR": "Taupikeau",
+    "es-ES": "Wiglett",
+    "pt-BR": null
+  },
+  "wugtrio": {
+    "en-US": "Wugtrio",
+    "fr-FR": "Triopikeau",
+    "es-ES": "Wugtrio",
+    "pt-BR": null
+  },
+  "bombirdier": {
+    "en-US": "Bombirdier",
+    "fr-FR": "Lestombaile",
+    "es-ES": "Bombirdier",
+    "pt-BR": null
+  },
+  "finizen": {
+    "en-US": "Finizen",
+    "fr-FR": "Dofin",
+    "es-ES": "Finizen",
+    "pt-BR": null
+  },
+  "palafin": {
+    "en-US": "Palafin",
+    "fr-FR": "Superdofin",
+    "es-ES": "Palafin",
+    "pt-BR": null
+  },
+  "varoom": {
+    "en-US": "Varoom",
+    "fr-FR": "Vrombi",
+    "es-ES": "Varoom",
+    "pt-BR": null
+  },
+  "revavroom": {
+    "en-US": "Revavroom",
+    "fr-FR": "Vrombotor",
+    "es-ES": "Revavroom",
+    "pt-BR": null
+  },
+  "cyclizar": {
+    "en-US": "Cyclizar",
+    "fr-FR": "Motorizard",
+    "es-ES": "Cyclizar",
+    "pt-BR": null
+  },
+  "orthworm": {
+    "en-US": "Orthworm",
+    "fr-FR": "Ferdeter",
+    "es-ES": "Orthworm",
+    "pt-BR": null
+  },
+  "glimmet": {
+    "en-US": "Glimmet",
+    "fr-FR": "Germéclat",
+    "es-ES": "Glimmet",
+    "pt-BR": null
+  },
+  "glimmora": {
+    "en-US": "Glimmora",
+    "fr-FR": "Floréclat",
+    "es-ES": "Glimmora",
+    "pt-BR": null
+  },
+  "greavard": {
+    "en-US": "Greavard",
+    "fr-FR": "Toutombe",
+    "es-ES": "Greavard",
+    "pt-BR": null
+  },
+  "houndstone": {
+    "en-US": "Houndstone",
+    "fr-FR": "Tomberro",
+    "es-ES": "Houndstone",
+    "pt-BR": null
+  },
+  "flamigo": {
+    "en-US": "Flamigo",
+    "fr-FR": "Flamenroule",
+    "es-ES": "Flamigo",
+    "pt-BR": null
+  },
+  "cetoddle": {
+    "en-US": "Cetoddle",
+    "fr-FR": "Piétacé",
+    "es-ES": "Cetoddle",
+    "pt-BR": null
+  },
+  "cetitan": {
+    "en-US": "Cetitan",
+    "fr-FR": "Balbalèze",
+    "es-ES": "Cetitan",
+    "pt-BR": null
+  },
+  "veluza": {
+    "en-US": "Veluza",
+    "fr-FR": "Délestin",
+    "es-ES": "Veluza",
+    "pt-BR": null
+  },
+  "dondozo": {
+    "en-US": "Dondozo",
+    "fr-FR": "Oyacata",
+    "es-ES": "Dondozo",
+    "pt-BR": null
+  },
+  "tatsugiri": {
+    "en-US": "Tatsugiri",
+    "fr-FR": "Nigirigon",
+    "es-ES": "Tatsugiri",
+    "pt-BR": null
+  },
+  "annihilape": {
+    "en-US": "Annihilape",
+    "fr-FR": "Courrousinge",
+    "es-ES": "Annihilape",
+    "pt-BR": null
+  },
+  "clodsire": {
+    "en-US": "Clodsire",
+    "fr-FR": "Terraiste",
+    "es-ES": "Clodsire",
+    "pt-BR": null
+  },
+  "farigiraf": {
+    "en-US": "Farigiraf",
+    "fr-FR": "Farigiraf",
+    "es-ES": "Farigiraf",
+    "pt-BR": null
+  },
+  "dudunsparce": {
+    "en-US": "Dudunsparce",
+    "fr-FR": "Deusolourdo",
+    "es-ES": "Dudunsparce",
+    "pt-BR": null
+  },
+  "kingambit": {
+    "en-US": "Kingambit",
+    "fr-FR": "Scalpereur",
+    "es-ES": "Kingambit",
+    "pt-BR": null
+  },
+  "great tusk": {
+    "en-US": "Great Tusk",
+    "fr-FR": "Fort-Ivoire",
+    "es-ES": "Colmilargo",
+    "pt-BR": null
+  },
+  "scream tail": {
+    "en-US": "Scream Tail",
+    "fr-FR": "Hurle-Queue",
+    "es-ES": "Colagrito",
+    "pt-BR": null
+  },
+  "brute bonnet": {
+    "en-US": "Brute Bonnet",
+    "fr-FR": "Fongus-Furie",
+    "es-ES": "Furioseta",
+    "pt-BR": null
+  },
+  "flutter mane": {
+    "en-US": "Flutter Mane",
+    "fr-FR": "Flotte-Mèche",
+    "es-ES": "Melenaleteo",
+    "pt-BR": null
+  },
+  "slither wing": {
+    "en-US": "Slither Wing",
+    "fr-FR": "Rampe-Ailes",
+    "es-ES": "Reptalada",
+    "pt-BR": null
+  },
+  "sandy shocks": {
+    "en-US": "Sandy Shocks",
+    "fr-FR": "Pelage-Sablé",
+    "es-ES": "Pelarena",
+    "pt-BR": null
+  },
+  "iron treads": {
+    "en-US": "Iron Treads",
+    "fr-FR": "Roue-de-Fer",
+    "es-ES": "Ferrodada",
+    "pt-BR": null
+  },
+  "iron bundle": {
+    "en-US": "Iron Bundle",
+    "fr-FR": "Hotte-de-Fer",
+    "es-ES": "Ferrosaco",
+    "pt-BR": null
+  },
+  "iron hands": {
+    "en-US": "Iron Hands",
+    "fr-FR": "Paume-de-Fer",
+    "es-ES": "Ferropalmas",
+    "pt-BR": null
+  },
+  "iron jugulis": {
+    "en-US": "Iron Jugulis",
+    "fr-FR": "Têtes-de-Fer",
+    "es-ES": "Ferrocuello",
+    "pt-BR": null
+  },
+  "iron moth": {
+    "en-US": "Iron Moth",
+    "fr-FR": "Mite-de-Fer",
+    "es-ES": "Ferropolilla",
+    "pt-BR": null
+  },
+  "iron thorns": {
+    "en-US": "Iron Thorns",
+    "fr-FR": "Épine-de-Fer",
+    "es-ES": "Ferropúas",
+    "pt-BR": null
+  },
+  "frigibax": {
+    "en-US": "Frigibax",
+    "fr-FR": "Frigodo",
+    "es-ES": "Frigibax",
+    "pt-BR": null
+  },
+  "arctibax": {
+    "en-US": "Arctibax",
+    "fr-FR": "Cryodo",
+    "es-ES": "Arctibax",
+    "pt-BR": null
+  },
+  "baxcalibur": {
+    "en-US": "Baxcalibur",
+    "fr-FR": "Glaivodo",
+    "es-ES": "Baxcalibur",
+    "pt-BR": null
+  },
+  "gimmighoul": {
+    "en-US": "Gimmighoul",
+    "fr-FR": "Mordudor",
+    "es-ES": "Gimmighoul",
+    "pt-BR": null
+  },
+  "gholdengo": {
+    "en-US": "Gholdengo",
+    "fr-FR": "Gromago",
+    "es-ES": "Gholdengo",
+    "pt-BR": null
+  },
+  "wo-chien": {
+    "en-US": "Wo-Chien",
+    "fr-FR": "Chongjian",
+    "es-ES": "Wo-Chien",
+    "pt-BR": null
+  },
+  "chien-pao": {
+    "en-US": "Chien-Pao",
+    "fr-FR": "Baojian",
+    "es-ES": "Chien-Pao",
+    "pt-BR": null
+  },
+  "ting-lu": {
+    "en-US": "Ting-Lu",
+    "fr-FR": "Dinglu",
+    "es-ES": "Ting-Lu",
+    "pt-BR": null
+  },
+  "chi-yu": {
+    "en-US": "Chi-Yu",
+    "fr-FR": "Yuyu",
+    "es-ES": "Chi-Yu",
+    "pt-BR": null
+  },
+  "roaring moon": {
+    "en-US": "Roaring Moon",
+    "fr-FR": "Rugit-Lune",
+    "es-ES": "Bramaluna",
+    "pt-BR": null
+  },
+  "iron valiant": {
+    "en-US": "Iron Valiant",
+    "fr-FR": "Garde-de-Fer",
+    "es-ES": "Ferropaladín",
+    "pt-BR": null
+  },
+  "koraidon": {
+    "en-US": "Koraidon",
+    "fr-FR": "Koraidon",
+    "es-ES": "Koraidon",
+    "pt-BR": null
+  },
+  "miraidon": {
+    "en-US": "Miraidon",
+    "fr-FR": "Miraidon",
+    "es-ES": "Miraidon",
+    "pt-BR": null
+  },
+  "walking wake": {
+    "en-US": "Walking Wake",
+    "fr-FR": "Serpente-Eau",
+    "es-ES": "Ondulagua",
+    "pt-BR": null
+  },
+  "iron leaves": {
+    "en-US": "Iron Leaves",
+    "fr-FR": "Vert-de-Fer",
+    "es-ES": "Ferroverdor",
+    "pt-BR": null
+  },
+  "dipplin": {
+    "en-US": "Dipplin",
+    "fr-FR": "Pomdramour",
+    "es-ES": "Dipplin",
+    "pt-BR": null
+  },
+  "poltchageist": {
+    "en-US": "Poltchageist",
+    "fr-FR": "Poltchageist",
+    "es-ES": "Poltchageist",
+    "pt-BR": null
+  },
+  "sinistcha": {
+    "en-US": "Sinistcha",
+    "fr-FR": "Théffroyable",
+    "es-ES": "Sinistcha",
+    "pt-BR": null
+  },
+  "okidogi": {
+    "en-US": "Okidogi",
+    "fr-FR": "Félicanis",
+    "es-ES": "Okidogi",
+    "pt-BR": null
+  },
+  "munkidori": {
+    "en-US": "Munkidori",
+    "fr-FR": "Fortusimia",
+    "es-ES": "Munkidori",
+    "pt-BR": null
+  },
+  "fezandipiti": {
+    "en-US": "Fezandipiti",
+    "fr-FR": "Favianos",
+    "es-ES": "Fezandipiti",
+    "pt-BR": null
+  },
+  "ogerpon": {
+    "en-US": "Ogerpon",
+    "fr-FR": "Ogerpon",
+    "es-ES": "Ogerpon",
+    "pt-BR": null
+  },
+  "archaludon": {
+    "en-US": "Archaludon",
+    "fr-FR": "Pondralugon",
+    "es-ES": "Archaludon",
+    "pt-BR": null
+  },
+  "hydrapple": {
+    "en-US": "Hydrapple",
+    "fr-FR": "Pomdorochi",
+    "es-ES": "Hydrapple",
+    "pt-BR": null
+  },
+  "gouging fire": {
+    "en-US": "Gouging Fire",
+    "fr-FR": "Feu-Perçant",
+    "es-ES": "Flamariete",
+    "pt-BR": null
+  },
+  "raging bolt": {
+    "en-US": "Raging Bolt",
+    "fr-FR": "Ire-Foudre",
+    "es-ES": "Electrofuria",
+    "pt-BR": null
+  },
+  "iron boulder": {
+    "en-US": "Iron Boulder",
+    "fr-FR": "Roc-de-Fer",
+    "es-ES": "Ferromole",
+    "pt-BR": null
+  },
+  "iron crown": {
+    "en-US": "Iron Crown",
+    "fr-FR": "Chef-de-Fer",
+    "es-ES": "Ferrotesta",
+    "pt-BR": null
+  },
+  "terapagos": {
+    "en-US": "Terapagos",
+    "fr-FR": "Terapagos",
+    "es-ES": "Terapagos",
+    "pt-BR": null
+  },
+  "pecharunt": {
+    "en-US": "Pecharunt",
+    "fr-FR": "Pêchaminus",
+    "es-ES": "Pecharunt",
+    "pt-BR": null
+  }
+}

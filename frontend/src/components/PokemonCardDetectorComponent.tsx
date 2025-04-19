@@ -5,6 +5,7 @@ import { Dialog, DialogContent, DialogFooter, DialogHeader, DialogOverlay, Dialo
 import { allCards } from '@/lib/CardsDB'
 import { CollectionContext } from '@/lib/context/CollectionContext'
 import { UserContext } from '@/lib/context/UserContext'
+import { getCardNameByLang } from '@/lib/utils'
 import { CardHashStorageService } from '@/services/CardHashStorageService'
 import { ImageSimilarityService } from '@/services/ImageHashingService'
 import PokemonCardDetectorService, { type DetectionResult } from '@/services/PokemonCardDetectionServices'
@@ -116,7 +117,7 @@ const PokemonCardDetector: FC<PokemonCardDetectorProps> = ({ onDetectionComplete
                   const img = new Image()
 
                   img.onload = () => resolve(url)
-                  img.onerror = () => resolve(`/images/en-US/${card.image?.split('/').at(-1)}`)
+                  img.onerror = () => resolve(`/images/${i18n.language}/${card.image?.split('/').at(-1)}`)
 
                   img.src = url
                 })
@@ -223,7 +224,7 @@ const PokemonCardDetector: FC<PokemonCardDetectorProps> = ({ onDetectionComplete
                   ? {
                       id: bestMatch.id,
                       distance: bestMatch.distance,
-                      imageUrl: `/images/en-US/${bestMatch.card.image?.split('/').at(-1)}`,
+                      imageUrl: `/images/${i18n.language}/${bestMatch.card.image?.split('/').at(-1)}`,
                     }
                   : undefined,
                 topMatches,
@@ -322,7 +323,7 @@ const PokemonCardDetector: FC<PokemonCardDetectorProps> = ({ onDetectionComplete
             matchedCard: {
               id: newMatch.id,
               distance: newMatch.distance,
-              imageUrl: `/images/en-US/${newMatch.card.image?.split('/').at(-1)}`,
+              imageUrl: `/images/${i18n.language}/${newMatch.card.image?.split('/').at(-1)}`,
             },
           }
         }
@@ -395,9 +396,13 @@ const PokemonCardDetector: FC<PokemonCardDetectorProps> = ({ onDetectionComplete
                         e.stopPropagation()
                         handleChangeMatch(index, match.id)
                       }}
-                      title={match.card.name}
+                      title={getCardNameByLang(match.card, i18n.language)}
                     >
-                      <img src={`/images/en-US/${match.card.image?.split('/').at(-1)}`} alt={match.card.name} className="w-full h-auto object-contain" />
+                      <img
+                        src={`/images/${i18n.language}/${match.card.image?.split('/').at(-1)}`}
+                        alt={getCardNameByLang(match.card, i18n.language)}
+                        className="w-full h-auto object-contain"
+                      />
                       <div className="text-xs text-center mt-1 bg-black/60 text-white py-0.5 rounded">{(100 - (match.distance / 128) * 100).toFixed(0)}%</div>
                     </div>
                   ))}
@@ -432,7 +437,7 @@ const PokemonCardDetector: FC<PokemonCardDetectorProps> = ({ onDetectionComplete
                 card.topMatches &&
                 card.topMatches
                   .filter((match) => match.id === card.matchedCard?.id)
-                  .map((match) => match.card.name)
+                  .map((match) => getCardNameByLang(match.card, i18n.language))
                   .join(' ')}
             </span>
           </div>
