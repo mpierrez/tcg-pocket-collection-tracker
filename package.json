@@ -15,11 +15,11 @@
   "devDependencies": {
     "@biomejs/biome": "1.9.4",
     "all-contributors-cli": "^6.26.1",
-    "lefthook": "^1.11.6",
+    "lefthook": "^1.11.10",
     "vite-plugin-mkcert": "^1.17.8"
   },
   "type": "module",
-  "packageManager": "pnpm@10.6.5",
+  "packageManager": "pnpm@10.8.0",
   "engines": {
     "node": ">=20"
   },
