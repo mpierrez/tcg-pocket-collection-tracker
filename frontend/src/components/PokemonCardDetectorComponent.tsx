@@ -75,6 +75,23 @@ const PokemonCardDetector: FC<PokemonCardDetectorProps> = ({ onDetectionComplete
     }
   }
 
+  function getRightPathOfImage(imageUrl: string | undefined): string {
+    const langCode = i18n.language.split('-')[0].toUpperCase()
+    const baseName = imageUrl
+      ?.split('/')
+      .at(-1)
+      ?.replace(/_[A-Z]{2}\.webp$/, `_${langCode}.webp`)
+    const imagePath = `/images/${i18n.language}/${baseName}`
+
+    const img = new Image()
+    img.src = imagePath
+    img.onerror = () => {
+      return `/images/en-US/${imageUrl?.split('/').at(-1)}`
+    }
+
+    return imagePath
+  }
+
   const hashingService = ImageSimilarityService.getInstance()
   const hashStorageService = CardHashStorageService.getInstance()
   const uniqueCards = useMemo(() => {
@@ -112,25 +129,7 @@ const PokemonCardDetector: FC<PokemonCardDetectorProps> = ({ onDetectionComplete
                 return existingHash
               }
 
-              async function getRightPathOfImage(url: string): Promise<string> {
-                return new Promise((resolve) => {
-                  const img = new Image()
-
-                  img.onload = () => resolve(url)
-                  img.onerror = () => resolve(`/images/${i18n.language}/${card.image?.split('/').at(-1)}`)
-
-                  img.src = url
-                })
-              }
-
-              const langCode = i18n.language.split('-')[0].toUpperCase()
-              const baseName = card.image
-                ?.split('/')
-                .at(-1)
-                ?.replace(/_[A-Z]{2}\.webp$/, `_${langCode}.webp`)
-              const imagePath = `/images/${i18n.language}/${baseName}`
-
-              const resolvedImagePath = await getRightPathOfImage(imagePath)
+              const resolvedImagePath = getRightPathOfImage(card.image)
               const hash = await hashingService.calculatePerceptualHash(resolvedImagePath)
               return { id: card.card_id, hash }
             } catch (error) {
@@ -224,7 +223,7 @@ const PokemonCardDetector: FC<PokemonCardDetectorProps> = ({ onDetectionComplete
                   ? {
                       id: bestMatch.id,
                       distance: bestMatch.distance,
-                      imageUrl: `/images/${i18n.language}/${bestMatch.card.image?.split('/').at(-1)}`,
+                      imageUrl: getRightPathOfImage(bestMatch.card.image),
                     }
                   : undefined,
                 topMatches,
@@ -323,7 +322,7 @@ const PokemonCardDetector: FC<PokemonCardDetectorProps> = ({ onDetectionComplete
             matchedCard: {
               id: newMatch.id,
               distance: newMatch.distance,
-              imageUrl: `/images/${i18n.language}/${newMatch.card.image?.split('/').at(-1)}`,
+              imageUrl: getRightPathOfImage(newMatch.card.image),
             },
           }
         }
@@ -399,7 +398,7 @@ const PokemonCardDetector: FC<PokemonCardDetectorProps> = ({ onDetectionComplete
                       title={getCardNameByLang(match.card, i18n.language)}
                     >
                       <img
-                        src={`/images/${i18n.language}/${match.card.image?.split('/').at(-1)}`}
+                        src={getRightPathOfImage(match.card.image)}
                         alt={getCardNameByLang(match.card, i18n.language)}
                         className="w-full h-auto object-contain"
                       />
@@ -421,7 +420,7 @@ const PokemonCardDetector: FC<PokemonCardDetectorProps> = ({ onDetectionComplete
             {/* Best match card */}
             {card.matchedCard && (
               <div className="w-1/2 relative">
-                <img src={card.matchedCard.imageUrl} alt="Best match" className="w-full h-auto object-contain" />
+                <img src={getRightPathOfImage(card.matchedCard.imageUrl)} alt="Best match" className="w-full h-auto object-contain" />
                 <div className="absolute bottom-0 left-0 right-0 bg-green-500/80 text-white text-xs px-1 py-0.5 text-center">
                   {(100 - (card.matchedCard.distance / 128) * 100).toFixed(0)}% match
                 </div>
