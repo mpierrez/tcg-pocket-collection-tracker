@@ -123,7 +123,7 @@ export interface TradePartners {
 
 export interface PackStructure {
   containsShinies: boolean
-  containsBabies: boolean
+  containSixthCardBabies: boolean
   containsLinkedCards: boolean
   cardsPerPack: 4 | 5
 }
@@ -169,6 +169,7 @@ export interface Card {
   rarity: Rarity
   ex: boolean
   baby: boolean
+  foil: boolean
   pack: string
   alternate_versions: number[]
   artist: string
