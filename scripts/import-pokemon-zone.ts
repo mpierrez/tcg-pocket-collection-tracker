@@ -8,10 +8,13 @@
 //
 // internal_id is what users' collections are stored by, so existing ids are always kept.
 // New ids are only computed for cards that are not in cards.json yet.
+// Missing en-US images are downloaded from Pokémon Zone, existing ones are never replaced.
 
 import fs from 'node:fs'
 import path from 'node:path'
+import sharp from 'sharp'
 import { expansions as allExpansions } from '../frontend/src/lib/CardsDB'
+import { chunk } from '../frontend/src/lib/utils'
 import type { Card, CardType, Expansion, ExpansionId, Rarity } from '../frontend/src/types'
 import { encode } from './encoder'
 
@@ -19,6 +22,9 @@ const [gameDataPath = 'pz-game-data.json', cardDataPath = 'pz-card-data.json'] =
 const cardsPath = 'frontend/assets/cards.json'
 const imagesDir = 'frontend/public/images/en-US/'
 const imagesPath = '/images/en-US/'
+// Same size as the existing images
+const imageWidth = 367
+const imageHeight = 512
 
 // The cards that should be the deckbuilding version, instead of the default "smallest internal_id"
 const deckbuildingOverrides = [12583376, 12583248, 133058]
@@ -36,6 +42,7 @@ interface PzCard {
   cardId: string
   rarity: string
   illustratorNames: string[]
+  illustrationUrl: string
   isPromotion: boolean
   name: string
   expansionCollectionNumbers: { expansionId: string; cardId: string; collectionNumber: number }[]
@@ -172,6 +179,7 @@ for (const card of pzById.values()) {
 
 const cards: Card[] = []
 const pzCardIds = new Map<string, string>() // card_id -> Pokémon Zone cardId
+const missingImages: { card_id: string; url: string }[] = []
 const skippedExpansions = new Set<string>()
 
 for (const pzCard of pzById.values()) {
@@ -199,7 +207,7 @@ for (const pzCard of pzById.values()) {
     }
 
     if (!fs.existsSync(path.join(imagesDir, `${card_id}.webp`))) {
-      console.warn(`Missing image for ${card_id} (${pzCard.name})`)
+      missingImages.push({ card_id, url: pzCard.illustrationUrl })
     }
 
     const { pokemon, trainer } = pzCard
@@ -291,3 +299,32 @@ if (removed.length > 0) {
 
 fs.writeFileSync(cardsPath, JSON.stringify(cards, null, 2))
 console.log(`Wrote ${cards.length} cards to ${cardsPath}`)
+
+/* Images */
+
+async function downloadImage(url: string, dest: string) {
+  const response = await fetch(url)
+  if (!response.ok) {
+    throw new Error(`${response.status} ${response.statusText}`)
+  }
+  const image = Buffer.from(await response.arrayBuffer())
+  await sharp(image).resize(imageWidth, imageHeight, { fit: 'fill' }).webp().toFile(dest)
+}
+
+const failedImages: string[] = []
+for (const images of chunk(missingImages, 10)) {
+  await Promise.all(
+    images.map(async ({ card_id, url }) => {
+      try {
+        await downloadImage(url, path.join(imagesDir, `${card_id}.webp`))
+        console.log(`Downloaded image for ${card_id}`)
+      } catch (error) {
+        failedImages.push(card_id)
+        console.warn(`Failed to download image for ${card_id} (${url}): ${error instanceof Error ? error.message : error}`)
+      }
+    }),
+  )
+}
+if (failedImages.length > 0) {
+  console.warn(`Missing images: ${failedImages.join(', ')}`)
+}
