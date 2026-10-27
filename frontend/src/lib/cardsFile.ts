@@ -39,12 +39,13 @@ export function compactCards(cards: Card[]): StoredCard[] {
       continue
     }
 
-    // Everything but the print itself has to be the same for all prints of a card
+    // Everything but the print itself is stored once: if a source disagrees between prints (e.g. a typo
+    // in a reprint's artist on Limitless), the first print wins
     const { expansions: _expansions, ...storedRest } = stored
     for (const key of new Set([...Object.keys(storedRest), ...Object.keys(card)]) as Set<keyof typeof card>) {
       if (JSON.stringify(storedRest[key]) !== JSON.stringify(card[key])) {
-        throw new Error(
-          `${card_id} and ${stored.expansions[0].expansion}-${stored.expansions[0].number} share internal_id ${card.internal_id} but have a different ${key}`,
+        console.warn(
+          `${card_id} and ${stored.expansions[0].expansion}-${stored.expansions[0].number} share internal_id ${card.internal_id} but have a different ${key}, keeping ${JSON.stringify(storedRest[key])}`,
         )
       }
     }
