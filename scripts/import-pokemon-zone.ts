@@ -14,8 +14,9 @@ import fs from 'node:fs'
 import path from 'node:path'
 import sharp from 'sharp'
 import { expansions as allExpansions } from '../frontend/src/lib/CardsDB'
+import { compactCards, compareCards, expandCards } from '../frontend/src/lib/cardsFile'
 import { chunk } from '../frontend/src/lib/utils'
-import type { Card, CardType, Expansion, ExpansionId, Rarity } from '../frontend/src/types'
+import type { Card, CardType, Expansion, ExpansionId, Rarity, StoredCard } from '../frontend/src/types'
 import { encode } from './encoder'
 
 const [gameDataPath = 'pz-game-data.json', cardDataPath = 'pz-card-data.json'] = process.argv.slice(2)
@@ -158,7 +159,7 @@ const flatten = (card: PzCard) => {
 readJson<{ cards: PzCard[] }>(cardDataPath).cards.forEach(flatten)
 const pzById = new Map(pzCards.map((c) => [c.cardId, c]))
 
-const existingCards = readJson<Card[]>(cardsPath)
+const existingCards = expandCards(readJson<StoredCard[]>(cardsPath))
 const existingIds = new Map(existingCards.map((c) => [c.card_id, c.internal_id]))
 
 const pzPackNames = new Map(gameData.packs.map((p) => [p.packId, p.name]))
@@ -284,21 +285,16 @@ for (const card of cards) {
   }
 }
 
-// Same order as before: by expansion, then by card number
-cards.sort((a, b) => {
-  if (a.expansion !== b.expansion) {
-    return a.expansion < b.expansion ? -1 : 1
-  }
-  return Number.parseInt(a.card_id.split('-').pop() as string, 10) - Number.parseInt(b.card_id.split('-').pop() as string, 10)
-})
+cards.sort(compareCards)
 
 const removed = existingCards.filter((c) => !cards.some((card) => card.card_id === c.card_id))
 if (removed.length > 0) {
   console.warn(`Cards missing from Pokémon Zone data: ${removed.map((c) => c.card_id).join(', ')}`)
 }
 
-fs.writeFileSync(cardsPath, JSON.stringify(cards, null, 2))
-console.log(`Wrote ${cards.length} cards to ${cardsPath}`)
+const storedCards = compactCards(cards)
+fs.writeFileSync(cardsPath, JSON.stringify(storedCards, null, 2))
+console.log(`Wrote ${storedCards.length} cards (${cards.length} prints) to ${cardsPath}`)
 
 /* Images */
 
